@@ -9,7 +9,7 @@
 @endsection
 
 @section('content')
-    <div class="agenda-section">
+    <div class="content">
         <div class="container">
             <div class="card">
                 <div class="card-header">
@@ -17,7 +17,7 @@
                 </div>
                 <div class="card-body">
                     <p class="text-center agenda-description mb-0">Op deze pagina treft u een overzicht met alle door ons geplaatste agendapunten.</p>
-                    <p class="text-center"><strong>Op maandagavonden staat er altijd iemand om 19 uur bij de balie.</strong></p>
+                    <p class="text-center"><strong>Op maandagavonden staat er altijd iemand om 18:45 uur bij de balie.</strong></p>
                     <?php $i = 0 ?>
                     @foreach  ($activities as $activity)
                         <div class="row row-striped futureActivity">

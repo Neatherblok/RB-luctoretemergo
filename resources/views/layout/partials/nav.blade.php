@@ -11,13 +11,13 @@
                     <a class="nav-link js-scroll-trigger" href="/agenda">Agenda</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link js-scroll-trigger" href="#projects">De Brigade</a>
+                    <a class="nav-link js-scroll-trigger" href="/brigade">De Brigade</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link js-scroll-trigger" href="#signup">Leden</a>
+                    <a class="nav-link js-scroll-trigger" href="/member">Leden</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link js-scroll-trigger" href="https://www.facebook.com/profile.php?id=100009455723964" target="_blank"><img src="img/fb_logo.png" style="height:3vh;"> Facebook</a>
+                    <a class="nav-link js-scroll-trigger" href="/contact">Contact</a>
                 </li>
             </ul>
         </div>

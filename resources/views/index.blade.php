@@ -42,45 +42,4 @@
             </div>
         </div>
     </section>
-
-    <!-- Contact Section -->
-    <section class="contact-section">
-        <div class="container">
-
-            <div class="row">
-
-                <div class="col-md-6 mb-3 mb-md-0">
-                    <div class="card py-4 h-100">
-                        <div class="card-body text-center">
-                            <i class="fas fa-map-marked-alt text-primary mb-2"></i>
-                            <h4 class="text-uppercase m-0">Adres</h4>
-                            <hr class="my-4">
-                            <div class="small text-black-50">Sportcentrum Vliegende Vaart</div>
-                            <div class="small text-black-50">Vliegende Vaart 2, Terneuzen</div>
-                        </div>
-                    </div>
-                </div>
-
-                <div class="col-md-6 mb-3 mb-md-0">
-                    <div class="card py-4 h-100">
-                        <div class="card-body text-center">
-                            <i class="fas fa-envelope text-primary mb-2"></i>
-                            <h4 class="text-uppercase m-0">E-mail</h4>
-                            <hr class="my-4">
-                            <div class="small text-black-50">
-                                <a href="#">hello@yourdomain.com</a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-
-            <div class="social d-flex justify-content-center">
-                <a href="https://www.facebook.com/profile.php?id=100009455723964" class="mx-2">
-                    <i class="fab fa-facebook-f"></i>
-                </a>
-            </div>
-
-        </div>
-    </section>
 @endsection
