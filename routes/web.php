@@ -12,13 +12,23 @@
 */
 
 Route::get('/', function () {
-    return view('demo');
-});
-Route::get('/register', function () {
-    return view('register');
+    return view('index');
 });
 
 Route::get('/agenda', 'ActivitieController@index');
+
+Route::get('/brigade', function() {
+    return view('brigade');
+});
+
+Route::get('/member', function() {
+    return view('members');
+});
+
+
+Route::get('/contact', function() {
+    return view('contact');
+});
 
 Auth::routes();
 
