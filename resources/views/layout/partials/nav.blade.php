@@ -11,10 +11,31 @@
                     <a class="nav-link js-scroll-trigger" href="/agenda">Agenda</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link js-scroll-trigger" href="/brigade">De Brigade</a>
+                    <div class="dropdown">
+                        <button class="dropbtn nav-link">De Brigade
+                            <i class="fa fa-caret-down"></i>
+                        </button>
+                        <div class="dropdown-content">
+                            <a href="/wie-wij-zijn">Wie wij zijn</a>
+                            <a href="/bestuur">Bestuur</a>
+                            <a href="/statuten">Statuten</a>
+                            <a href="/diplomas">Diploma's</a>
+                            <a href="/gedragsregels">Gedragsregels</a>
+
+                        </div>
+                    </div>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link js-scroll-trigger" href="/member">Leden</a>
+                    <div class="dropdown">
+                        <button class="dropbtn nav-link">Info Leden
+                            <i class="fa fa-caret-down"></i>
+                        </button>
+                        <div class="dropdown-content">
+                            <a href="/info-nieuwe-leden">Nieuwe leden</a>
+                            <a href="/contributie">Contributie</a>
+                            <a href="/huishoudelijk-reglement">Huishoudelijk reglement</a>
+                        </div>
+                    </div>
                 </li>
                 <li class="nav-item">
                     <a class="nav-link js-scroll-trigger" href="/contact">Contact</a>

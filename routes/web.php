@@ -17,14 +17,38 @@ Route::get('/', function () {
 
 Route::get('/agenda', 'ActivitieController@index');
 
-Route::get('/brigade', function() {
-    return view('brigade');
+Route::get('/wie-wij-zijn', function() {
+    return view('brigade.introduction');
 });
 
-Route::get('/member', function() {
-    return view('members');
+Route::get('/bestuur', function() {
+    return view('brigade.committee');
 });
 
+Route::get('/statuten', function() {
+    return view('brigade.statute');
+});
+
+Route::get('/diplomas', function() {
+    return view('brigade.brevet');
+});
+
+Route::get('/gedragsregels', function() {
+    return view('brigade.conduct_rules');
+});
+
+
+Route::get('/contributie', function() {
+    return view('member.contribution');
+});
+
+Route::get('/info-nieuwe-leden', function() {
+    return view('member.info_new_member');
+});
+
+Route::get('/huishoudelijk-reglement', function() {
+    return view('member.domestic_rules');
+});
 
 Route::get('/contact', function() {
     return view('contact');
