@@ -20,7 +20,7 @@
                         <p>Het kan nog even duren tot deze pagina af is, kijk anders nog even verder rond op deze site.</p>
                         <p>U kunt uw kind ook per papier aanmelden en die inleveren op de maandagavond om 18.45 aan de balie in Vliegende Vaart Terneuzen.</p>
                         <p>&nbsp;</p>
-                        <p><strong>Download de papieren hieronder.</strong></p>
+                        <p><strong>Download de formulieren hieronder.</strong></p>
                     </div>
                     <div class="modal-footer">
                         <button class="btn btn-secondary" type="button" data-dismiss="modal">Ga terug</button>

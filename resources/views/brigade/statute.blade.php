@@ -21,7 +21,7 @@
                             De vereniging stel zich ten doel hulp te verlenen aan drenkelingen.</p>
                         <p><strong>Artikel 3</strong>: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>
                             Zij tracht dit doel te bereiken langs wettige weg, en wel door:</p>
-                        <ol type="a" start="1">
+                        <ul>
                             <li>de praktische opleiding tot het redden van drenkelingen, alsmede het houden van
                                 cursussen in “het opwekken van levensgeesten en eerste hulp bij ongelukken”;
                             </li>
@@ -44,24 +44,26 @@
                                 inzien, door het houden van lezingen, tentoonstellingen, demonstraties en wedstrijden;
                             </li>
                             <li>andere wettige middelen, die voor het bereiken van het doel bevorderlijk zijn.</li>
-                        </ol>
+                        </ul>
+                        <h3>&nbsp;</h3>
                         <p><strong>VERENIGINGSJAAR</strong></p>
                         <p><strong>Artikel 4:</strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>
                             Het verenigingsjaar loopt van 1 januari tot en met 31 december.</p>
                         <p><strong>Artikel 5:</strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>
                             De vereniging kan zich aansluiten bij bonden, stichtingen, verenigingen of andere vormen van
                             organisaties, mits hiertoe door de algemene ledenvergadering wordt besloten.</p>
+                        <h3>&nbsp;</h3>
                         <p><strong>LIDMAATSCHAP</strong></p>
                         <p><strong>Artikel 6:</strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>
                             De vereniging bestaat uit:</p>
-                        <ol type="a" start="1">
+                        <ul>
                             <li>werkende leden;</li>
                             <li>aspirant-leden;</li>
                             <li>ondersteunende verenigingen, donateurs en donatrices;</li>
                             <li>leden van de raad van bijstand, leden der medischecommissie;</li>
                             <li>ereleden;</li>
                             <li>leden van verdienste.</li>
-                        </ol>
+                        </ul>
                         <p>Werkende leden en aspirant–leden zijn zij, die op hun daartoe aan de secretaris van de
                             vereniging gericht schriftelijk verzoek na ballotage als zodanig door het bestuur zijn
                             aangenomen.<br>
@@ -81,20 +83,18 @@
                             het bestuur het lidmaatschap van verdienste hebben verkregen.</p>
                         <p><strong>Artikel 7:&nbsp; </strong><br>
                             Het lidmaatschap eindigt door:</p>
-                        <ol type="a" start="6">
-                            <ol type="a" start="1">
-                                <li>overlijden en, zover het betreft ondersteunende verenigingen, door ontbinding
-                                    daarvan;
-                                </li>
-                                <li>schriftelijke opzegging aan de secretaris van de vereniging minstens 1 maand vóór
-                                    het einde van het verenigingsjaar;
-                                </li>
-                                <li>royement krachtens besluit der algemene ledenvergadering met ten minste 2/3 van het
-                                    aantal uitgebrachte geldige stemmen;
-                                </li>
-                                <li>royement door het bestuur wegens wanbetaling</li>
-                            </ol>
-                        </ol>
+                        <ul>
+                            <li>overlijden en, zover het betreft ondersteunende verenigingen, door ontbinding
+                                daarvan;
+                            </li>
+                            <li>schriftelijke opzegging aan de secretaris van de vereniging minstens 1 maand vóór
+                                het einde van het verenigingsjaar;
+                            </li>
+                            <li>royement krachtens besluit der algemene ledenvergadering met ten minste 2/3 van het
+                                aantal uitgebrachte geldige stemmen;
+                            </li>
+                            <li>royement door het bestuur wegens wanbetaling</li>
+                        </ul>
                         <p>In alle gevallen, behalve wanneer het bestuur anders beslist, is voldoening der contributie
                             voor het gehele jaar verplicht.<br>
                             Bij het eindigen van het lidmaatschap vervallen alle rechten, aan het lidmaatschap
@@ -109,7 +109,8 @@
                             artikel 6, sub d. en f., een adviserende stem hebben.<br>
                             Alle in artikel 6 genoemde leden hebben recht van toegang tot bijeenkomsten, oefenuren en
                             vergaderingen.</p>
-                        <h2>BESTUUR</h2>
+                        <h3>&nbsp;</h3>
+                        <p><strong>BESTUUR</strong></p>
                         <p><strong>&nbsp;</strong><strong>Artikel 10:&nbsp; </strong><br>
                             Het bestuur zal bestaan uit minstens 5 meerderjarige leden, waaronder zo mogelijk een
                             geneeskundige.<br>
@@ -126,28 +127,31 @@
                             Het bestuur kan zich doen bijstaan door een commissie en zo nodig door de raad van bijstand.
                             De samenstelling en benoemingen der commissies worden bij huishoudelijk reglement nader
                             geregeld.</p>
-                        <h2>HUISHOUDELIJK REGLEMENT</h2>
+                        <h3>&nbsp;</h3>
+                        <p><strong>HUISHOUDELIJK REGLEMENT</strong></p>
                         <p><strong>&nbsp;</strong><strong>Artikel 12:</strong>&nbsp;<br>
                             Het huishoudelijk reglement der vereniging, dat zal worden vastgesteld door de algemene
                             ledenvergadering, mag geen bepalingen bevatten, strijdig met deze statuten.</p>
-                        <h2>GELDMIDDELEN</h2>
+                        <h3>&nbsp;</h3>
+                        <p><strong>GELDMIDDELEN</strong></p>
                         <p><strong>&nbsp;</strong><strong>Artikel 13:</strong>&nbsp;<br>
                             De geldmiddelen der vereniging bestaan uit:</p>
-                        <ol type="a" start="1">
+                        <ul>
                             <li>contributies;</li>
                             <li>bijdragen van donateurs (trices) en ondersteunende verenigingen;</li>
                             <li>bijdragen van de leden van de raad van bijstand;</li>
                             <li>erfstellingen, legaten, schenkingen, subsidies en andere toevallige baten.</li>
-                            <li>&nbsp;</li>
-                        </ol>
+                        </ul>
                         <p>Het beheer der geldmiddelen wordt geregeld bij huishoudelijk reglement.</p>
-                        <h2>VERGADERINGEN</h2>
+                        <h3>&nbsp;</h3>
+                        <p><strong>VERGADERINGEN</strong></p>
                         <p><strong>Artikel 14: </strong>&nbsp;<br>
                             Binnen 3 maanden na aanvang van het verenigingsjaar wordt een algemene ledenvergadering
                             gehouden.<br>
                             Het huishoudelijk reglement regelt alles, wat betreft het bijeenroepen en het houden van
                             vergaderingen, alsmede de wijze van stemmen.</p>
-                        <h2>ONTBINDING EN VEREFFENING</h2>
+                        <h3>&nbsp;</h3>
+                        <p><strong>ONTBINDING EN VEREFFENING</strong></p>
                         <p><strong>Artikel 15:</strong>&nbsp;<br>
                             Tot ontbinding der vereniging kan worden besloten bij meerderheid van stemmen, indien het
                             aantal stemgerechtigde leden minder dan 5 bedraagt, of op een algemene ledenvergadering,
@@ -164,7 +168,8 @@
                             wijzen sociale instelling wordt vermaakt.<br>
                             Voor zover in dit artikel niet anders is bepaald, is bij ontbinding der vereniging artikel
                             1702 van het Burgerlijk Wetboek toepasselijk.</p>
-                        <h2>WIJZIGINGEN</h2>
+                        <h3>&nbsp;</h3>
+                        <p><strong>WIJZIGINGEN</strong></p>
                         <p><strong>&nbsp;</strong><strong>Artikel 16:</strong>&nbsp;<br>
                             Wijzigingen in de bepalingen dezer statuten kunnen niet anders plaatshebben dan in een
                             algemene ledenvergadering, terwijl de voorgestelde wijzigingen duidelijk op de convocatie

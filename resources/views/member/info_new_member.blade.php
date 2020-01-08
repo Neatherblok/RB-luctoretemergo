@@ -19,8 +19,8 @@
                             door, met uitzondering van de zomervakanties. In de andere vakanties hebben we een aangepast
                             programma waarover we je inlichten via de nieuwsbrief. De zwemavond is in 2 groepen
                             verdeeld:</p>
-                        <p>– De jongens en meisjes in groep 1 zwemmen van 19.00 – 20.00 uur<br>
-                            – De jongens en meisjes in groep 2 zwemmen van 20.00 – 21.00 uur</p>
+                        <p>– De lagere groepen zwemmen van 19.00 – 20.00 uur<br>
+                            – De hogere groepen zwemmen van 20.00 – 21.00 uur</p>
                         <p>Een individuele toegangspas voor het zwembad is niet nodig, de vereniging heeft een
                             gemeenschappelijke pas waarmee wij de leden toegang verlenen tot het bad.</p>
                         <p>In principe worden de leden op de zwemavond voorbereid op het behalen van een diploma met
@@ -32,14 +32,14 @@
                             <li>Zwemmend Redder 1 t/m 4 (+/- 10 – 14 jaar)</li>
                             <li>Life Saver 1 t/m 3 (+/- 14 – 18 jaar)</li>
                         </ul>
-                        <p>Tijdens het oefenen voor de diploma lijn Life Saver wordt er ingegaan op een stuk EHBO en
-                            theorie. Mocht uw kind een vorm van Dyslexie hebben dan dit graag aan ons door geven zodat
+                        <p>Tijdens het oefenen voor de diplomalijn Life Saver wordt er ingegaan op een stuk EHBO en
+                            theorie. Mocht uw kind een vorm van Dyslexie hebben dan verzoeken we dit graag aan ons door te geven zodat
                             wij hier rekening mee kunnen houden. Wil je meer informatie over de diploma’s? Spreek dan
-                            iemand van de brigade aan wij helpen je graag verder.</p>
+                            iemand van de brigade aan. Wij helpen je graag verder.</p>
                         <p>Wilt u zo vriendelijk zijn om bij de aanmeldingsformulier een pasfoto, met achterop
-                            vermelding van naam, en ook het inschrijfgeld á € 12,50 mee te nemen?</p>
+                            vermelding van naam, en ook het inschrijfgeld à € 12,50 mee te nemen?</p>
                         <p>De contributie wordt jaarlijks tijdens de algemene ledenvergadering vastgesteld en kan ook
-                            via automatische incasso worden afgeschreven. Actuele contributie vindt op onze website.</p>
+                            via automatische incasso worden afgeschreven. <a href="{{url("/contributie")}}">Klik hier voor de actuele contributie.</a></p>
                     </div>
                 </div>
             </div>

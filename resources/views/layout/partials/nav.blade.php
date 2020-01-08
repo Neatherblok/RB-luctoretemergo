@@ -19,8 +19,8 @@
                             <a href="/wie-wij-zijn">Wie wij zijn</a>
                             <a href="/bestuur">Bestuur</a>
                             <a href="/instructeurs">Instructeurs</a>
-                            <a href="/statuten">Statuten</a>
                             <a href="/diplomas">Diploma's</a>
+                            <a href="/statuten">Statuten</a>
                             <a href="/gedragsregels">Gedragsregels</a>
 
                         </div>

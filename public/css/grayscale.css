@@ -23,6 +23,11 @@
     color: #161616;
     font-weight: 700;
     padding: 0.9rem 0;
+    text-decoration: none;
+}
+
+#mainNav .nav-link{
+    text-decoration: none;
 }
 
 #mainNav .navbar-nav .nav-item:hover {
@@ -297,7 +302,8 @@ body {
 }
 
 a {
-    color: #64a19d;
+    color: #212529;
+    text-decoration: underline;
 }
 
 a:focus,
@@ -383,6 +389,7 @@ footer {
 .sectionSelection .sectionSelectionText {
     margin-top: auto;
     margin-bottom: -2rem;
+    text-decoration: none;
 }
 
 .sectionSelection:hover {
