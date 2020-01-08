@@ -25,6 +25,10 @@ Route::get('/bestuur', function() {
     return view('brigade.committee');
 });
 
+Route::get('/instructeurs', function() {
+    return view('brigade.instructors');
+});
+
 Route::get('/statuten', function() {
     return view('brigade.statute');
 });
