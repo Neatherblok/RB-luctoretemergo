@@ -24,10 +24,10 @@
 
                         <p>Voordat je een goed getrainde en geoefende redder bent heb je toch wel een paar jaar nodig. Wil je daarna je nog verder bekwamen dan zijn er met ook nog een EHBO diploma erbij volop kansen om aan de kust als strandwacht of varend redder te werken.</p>
 
-                        <p>Ook zijn in elke brigade de instructeurs allemaal leden die als jongere eerst zelf lid zijn geworden.</p>
+                        <p>Ook zijn in elke brigade de instructeurs bijna allemaal leden die als jongere eerst zelf lid zijn geworden.</p>
 
                         <p>Wil je eens komen kijken of dit zwemmend redden iets voor je is kom dan eens een avond met ons mee zwemmen. Hoe snel of langzaam je zwemt is niet belangrijk dat verbetert met oefening vanzelf wel.</p>
-                        <p>Breng direct je zwemkleding maar mee. Meld je om zeven uur aan de balie in de hal van het zwembad. De mevrouw die daar zit zorgt er voor dat je dezelfde avond al mee kunt zwemmen.</p>
+                        <p>Breng direct je zwemkleding maar mee. Meld je om iets voor zeven uur aan de balie in de hal van het zwembad. De mevrouw die daar zit zorgt er voor dat je dezelfde avond al mee kunt zwemmen.</p>
                         <p>Je kunt er dan later beter over beslissen of je dit wel of niet wilt.</p>
 
                         <p>Voor nog meer inlichtingen kun je iedere maandagavond tot half negen in het zwembad terecht of telefonisch.</p>

@@ -7,7 +7,7 @@
 
                 <div class="card">
                     <div class="card-body">
-                        <h4>Instructeurs</h4>
+                        <h1 >De opgeleide instructeurs</h1>
                         <ul>
                             <li>Jan van Maren</li>
                             <li>Annemee van den Branden</li>

@@ -13,6 +13,7 @@
                             Het terrein der werkzaamheden van de vereniging bestrijkt, voor zover het Zwemmend redden
                             betreft, behalve het gebied der Gemeente Terneuzen, dat der omliggende gemeenten, wanneer in
                             die gemeenten geen K.N.B. R.D. aangesloten reddingsbrigade bestaat.</p>
+                        <h1>&nbsp;</h1>
                         <h3>LIDMAATSCHAP</h3>
                         <p><strong>Artikel 2.</strong></p>
                         <p>Niemand der leden kan uit hoofde van zijn lidmaatschap verplicht worden eigen leven in de
@@ -21,6 +22,7 @@
                         <p>Als werkend lid kunnen toetreden personen, die op 1 januari de leeftijd van 16 jaar hebben
                             bereikt en als aspirant-lid zij, die op 1 januari de leeftijd van 16 jaar nog niet hebben
                             bereikt doch minstens 6 jaar oud zijn.</p>
+                        <h1>&nbsp;</h1>
                         <h3>CONTRIBUTIE</h3>
                         <p><strong>Artikel 4.</strong></p>
                         <p>Door het bestuur kan te allen tijde geheel of gedeeltelijk vrijstelling van
@@ -31,8 +33,8 @@
                             10,00 per jaar.De contributie voor werkende leden en aspirant-leden wordt telkenjare op de
                             algemene vergadering vastgesteld. Zij, die als lid toetreden, wordt een exemplaar van
                             statuten en huishoudelijk reglement verstrekt.</p>
+                        <h1>&nbsp;</h1>
                         <h3>BESTUUR</h3>
-                        <p><strong>&nbsp;</strong></p>
                         <p><strong>Artikel 5.</strong></p>
                         <p>Het brigadebestuur wordt gekozen door de algemene vergadering, bedoeld in artikel 15 der
                             Statuten.<br>
@@ -50,9 +52,9 @@
                             <strong>&nbsp;</strong><br>
                             Het dagelijks bestuur regelt de dagelijkse zaken en treedt in spoedeisende gevallen op,
                             onder nadere goedkeuring van het bestuur</p>
+                        <h1>&nbsp;</h1>
                         <h3>DE VOORZITTER</h3>
                         <p><strong>Artikel 7.</strong></p>
-                        <p>&nbsp;</p>
                         <p>De voorzitter leidt de vergaderingen en bijeenkomsten.Hij zorgt voor de uitvoering en
                             naleving der genomen besluiten, bepaalt in overleg met de secretaris data en plaats der
                             vergaderingen en ondertekent mede de notulen, welke door de vergadering zijn goedgekeurd.
@@ -61,6 +63,7 @@
                         <p><strong>Artikel 8.</strong></p>
                         <p>De vice-voorzitter vervangt de voorzitter bij diens ontstentenis&nbsp; en treedt dan in diens
                             rechten en&nbsp; verplichtingen betreffende de vereniging.</p>
+                        <h1>&nbsp;</h1>
                         <h3>DE SECRETARIS</h3>
                         <p><strong>Artikel 9.</strong></p>
                         <p>De secretaris is belast met alle correspondentie de brigade betreffende, het bijhouden der
@@ -71,8 +74,8 @@
                             jaarlijkse algemene vergadering wordt uitgebracht.</p>
                         <p><strong>Artikel 10.</strong></p>
                         <p>De 2e secretaris staat de secretaris zonodig bij in de uitvoering van diens functie.</p>
+                        <h1>&nbsp;</h1>
                         <h3>DE PENNINGMEESTER</h3>
-                        <p>&nbsp;</p>
                         <p><strong>Artikel 11.</strong></p>
                         <p>De penningmeester beheert de gelden der brigade; voor uitgaven boven f 100,00 behoeft hij de
                             machtiging van het dagelijks bestuur. Hij brengt minstens eens in het jaar een financiee1
@@ -81,19 +84,20 @@
                             Wanneer de voorzitter en één of meer bestuursleden dat nodig achten, is de penningmeester
                             gehouden hen inzage van de kas, boeken en bescheiden te verstrekken. De penningmeester
                             belegt de gelden op aanwijzing van het bestuur.</p>
+                        <h1>&nbsp;</h1>
                         <h3>COMMISSIES</h3>
-                        <p>&nbsp;</p>
                         <p><strong>Artikel 12.</strong></p>
                         <p>Het bestuur kan zich door commissies laten bijstaan. De commissies zijn te allen tijde
                             verantwoording verschuldigd De kommissies vergaderen zo dikwijls als voor een goede gang&nbsp;
                             van zaken noodzakelijk wordt geacht.</p>
+                        <h1>&nbsp;</h1>
                         <h3>MEDISCHE COMMISSIE</h3>
-                        <p>&nbsp;</p>
                         <p><strong>Artikel 13.</strong></p>
                         <p>De medische commissie bestaat uit een onbeperkt aantal medici, die door het brigadebestuur
                             zijn aangezocht zitting te nemen. Zij dient het bestuur, al of niet gevraagd van advies.<br>
                             De leiding van cursussen in de eerste hulpverlening, zomede alles wat daarmede verband
                             houdt, berust bij de medische commissie .</p>
+                        <h1>&nbsp;</h1>
                         <h3>TECHNISCHE COMMISSIE</h3>
                         <p><strong>Artikel 14.</strong></p>
                         <p>De technische commissie bestaat uit een oneven aantal en tenminste 3 leden, bij voorkeur in
@@ -104,11 +108,13 @@
                             De technische commissie heeft de leiding van de cursussen in het zwemmend redden en alles
                             wat daarmede verband houdt. Instructeurs (trices) worden al of niet op voordracht van de
                             technische commissie door het brigadebestuur benoemd en ontslagen.</p>
+                        <h1>&nbsp;</h1>
                         <h3>KASCOMMISSIE</h3>
                         <p><strong>Artikel 15.</strong></p>
                         <p>De kascommissie zal bestaan uit drie leden.<br>
                             Zij heeft de financiële controle en neemt kas en bescheiden op van de penningmeester en
                             brengt schriftelijk of mondeling hiervan verslag uit aan de algemene vergadering .</p>
+                        <h1>&nbsp;</h1>
                         <h3>VERGADERINGEN</h3>
                         <p><strong>Artikel 16.</strong></p>
                         <p>Op de agenda der jaarlijkse algemene vergadering, bedoeld in artikel 14 der statuten, moeten
@@ -140,6 +146,7 @@
                             vergaderingen, waar reglementswijzigingen of aanvullingen zullen worden behandeld, is
                             hetzelfde van toepassing als genoemd in artikel 16 der statuten.</p>
                         <p><strong>&nbsp;</strong></p>
+                        <h1>&nbsp;</h1>
                         <h3>STEMMINGEN</h3>
                         <p><strong>Artikel 19.</strong></p>
                         <p>Het stembureau op een vergadering wordt gevormd door drie, door de voorzitter aan te wijzen
@@ -170,14 +177,15 @@
                             afgevaardigden brengen verslag uit op een algemene vergadering.<br>
                             De afgevaardigden kunnen een redelijke vergoeding van reis- en verblijfskosten verlangen.
                             Voor reizen per trein mogen zij niet meer dan tweede klas in rekening brengen.</p>
+                        <h1>&nbsp;</h1>
                         <h3>ONDERSCHEIDINGEN , ENZ.</h3>
                         <p><strong>Artikel 22.</strong></p>
                         <p>Door het brigadebestuur kunnen onderscheidingen, beloningen en/of schadevergoedingen worden
                             toegekend aan hen~ die zich door moed en vastberadenheid hebben onderscheiden.<br>
                             Deze beloningen, onderscheidingen of schadevergoedingen mogen alleen betrekking hebben op
                             het reddingwezen in het algemeen.</p>
+                        <h1>&nbsp;</h1>
                         <h3>SCHORSING EN ROYEMENT</h3>
-                        <p><strong>&nbsp;</strong></p>
                         <p><strong>Artikel 23.</strong></p>
                         <p>Leden, geschorst op grond van artikel 8 der statuten, kunnen mits met een meerderheid van
                             minstens 2/3 der uitgebrachte geldige stemmen op een algemene vergadering van hun
@@ -194,8 +202,8 @@
                             waarvan minstens éénmaa1 schriftelijk tot betaling te zijn gemaand, door het bestuur worden
                             geroyeerd. Alvorens zulke leden weder lid kunnen worden van de brigade, behoren zij de
                             achterstallige contributie bijbetaald te hebben.</p>
+                        <h1>&nbsp;</h1>
                         <h3>ALGEMENE BEPALINGEN</h3>
-                        <p><strong>&nbsp;</strong></p>
                         <p><strong>Artikel 25.</strong></p>
                         <p>Bij het eindigen van het lidmaatschap vervallen alle rechten en aanspraken op de bezittingen
                             van de brigade.</p>

@@ -16,24 +16,36 @@
                         <div class="col-md-4">
                             <a href="/Zwemmend_Redden">
                                 <div class="sectionSelection">
-                                    <img src="{{ asset('assets/img/reddingsboei.png') }}" class="imgWhatWeDoResize">
-                                    <p class="mt-4">Zwemmend Redden</p>
+                                    <div class="sectionSelectionImage">
+                                        <img src="{{ asset('assets/img/reddingsboei.png') }}" class="imgWhatWeDoResize">
+                                    </div>
+                                    <div class="sectionSelectionText">
+                                        <p class="mt-4">Zwemmend Redden</p>
+                                    </div>
                                 </div>
                             </a>
                         </div>
                         <div class="col-md-4">
                             <a href="/Theorie_Begeleiding">
                                 <div class="sectionSelection">
-                                    <img src="{{ asset('assets/img/theorieboek.jpg') }}" class="imgWhatWeDoResize">
-                                    <p class="mt-4">Theorie Begeleiden</p>
+                                    <div class="sectionSelectionImage">
+                                        <img src="{{ asset('assets/img/theorieboek.jpg') }}" class="imgWhatWeDoResize">
+                                    </div>
+                                    <div class="sectionSelectionText">
+                                        <p class="mt-4">Theorie Begeleiden</p>
+                                    </div>
                                 </div>
                             </a>
                         </div>
                         <div class="col-md-4">
                             <a href="/EHBO">
                                 <div class="sectionSelection">
-                                    <img src="{{ asset('assets/img/EHBO_koffer.png') }}" class="imgWhatWeDoResize">
-                                    <p class="mt-4">Eerste Hulp</p>
+                                    <div class="sectionSelectionImage">
+                                        <img src="{{ asset('assets/img/EHBO_koffer.png') }}" class="imgWhatWeDoResize">
+                                    </div>
+                                    <div class="sectionSelectionText">
+                                        <p class="mt-4">Eerste Hulp</p>
+                                    </div>
                                 </div>
                             </a>
                         </div>
