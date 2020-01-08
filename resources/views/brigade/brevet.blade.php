@@ -7,11 +7,7 @@
                 <div class="card">
                     <div class="card-body">
                         <h1 align="center">Bevretten van Reddingsbrigade Nederland</h1>
-                        <h2>Let op:</h2>
-                        <p><strong>Vanaf zomer 2011 zijn we overgegaan&nbsp;op de nieuwe diploma/brevet lijn. </strong>
-                        </p>
-                        <p>&nbsp;</p>
-                        <h2>BINNENWATER</h2>
+                        <h1>&nbsp;</h1>
                         <table class="art-geentabrand" style="width: 99%;" border="0" cellspacing="4" cellpadding="0">
                             <tbody>
                             <tr>

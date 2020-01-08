@@ -16,7 +16,7 @@
                         <div class="col-md-4">
                             <a href="/Zwemmend_Redden">
                                 <div class="sectionSelection">
-                                    <img src="img/reddingsboei.png" class="imgWhatWeDoResize">
+                                    <img src="{{ asset('assets/img/reddingsboei.png') }}" class="imgWhatWeDoResize">
                                     <p class="mt-4">Zwemmend Redden</p>
                                 </div>
                             </a>
@@ -24,7 +24,7 @@
                         <div class="col-md-4">
                             <a href="/Theorie_Begeleiding">
                                 <div class="sectionSelection">
-                                    <img src="img/theorieboek.jpg" class="imgWhatWeDoResize">
+                                    <img src="{{ asset('assets/img/theorieboek.jpg') }}" class="imgWhatWeDoResize">
                                     <p class="mt-4">Theorie Begeleiden</p>
                                 </div>
                             </a>
@@ -32,7 +32,7 @@
                         <div class="col-md-4">
                             <a href="/EHBO">
                                 <div class="sectionSelection">
-                                    <img src="img/EHBO_koffer.png" class="imgWhatWeDoResize">
+                                    <img src="{{ asset('assets/img/EHBO_koffer.png') }}" class="imgWhatWeDoResize">
                                     <p class="mt-4">Eerste Hulp</p>
                                 </div>
                             </a>
