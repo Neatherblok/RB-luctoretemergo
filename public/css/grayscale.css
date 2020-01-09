@@ -51,8 +51,9 @@
     }
 
     #mainNav .navbar-brand {
-        padding: 0.5rem 0;
+        padding: 0.5rem 2rem;
         color: rgba(255, 255, 255, 0.5);
+        transition: color .5s, font-size .5s;
     }
 
     #mainNav .nav-link {
@@ -63,6 +64,7 @@
 
     #mainNav .navbar-brand:hover {
         color: rgba(255, 255, 255, 0.75);
+        font-size: 1.4rem;
     }
 
     #mainNav .nav-link:active {
@@ -372,6 +374,7 @@ footer {
     height: 100%;
     padding: 0;
     border: #fff solid 5px;
+    transition: background-color .5s, border .5s, color .5s;
     display: flex;
     flex-direction: column;
 }
@@ -411,6 +414,10 @@ footer {
     background-color: inherit;
     font-family: inherit;
     margin: 0;
+}
+
+.navbar .nav-item {
+    transition: background-color .5s;
 }
 
 .navbar .nav-item:hover {
