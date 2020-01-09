@@ -1,5 +1,5 @@
 <div class="col-md-6 mb-3 mb-md-0">
-    <a href="https://g.page/Vliegende-Vaart?share">
+    <a href="https://g.page/Vliegende-Vaart?share" class="linkUnderlineless">
         <div class="card py-4 h-100 p-2 contact-element">
             <div class="card-body text-center">
                 <i class=" fas fa-map-marked-alt text-primary mb-2"></i>

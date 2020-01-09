@@ -23,11 +23,6 @@
     color: #161616;
     font-weight: 700;
     padding: 0.9rem 0;
-    text-decoration: none;
-}
-
-#mainNav .nav-link{
-    text-decoration: none;
 }
 
 #mainNav .navbar-nav .nav-item:hover {
@@ -389,7 +384,6 @@ footer {
 .sectionSelection .sectionSelectionText {
     margin-top: auto;
     margin-bottom: -2rem;
-    text-decoration: none;
 }
 
 .sectionSelection:hover {
@@ -447,6 +441,10 @@ footer {
 
 .dropdown:hover .dropdown-content {
     display: block;
+}
+
+.linkUnderlineless {
+    text-decoration: none;
 }
 
 table {
