@@ -1,5 +1,7 @@
 @extends('layout.mainlayout')
 
+@section('pageTitle', 'Home')
+
 @section('header')
     @include('layout.partials.header')
 @endsection

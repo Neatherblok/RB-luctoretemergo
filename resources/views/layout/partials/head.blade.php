@@ -3,7 +3,7 @@
 <meta name="description" content="">
 <meta name="author" content="">
 
-<title>Home - Brigade Luctor et Emergo</title>
+<title>@yield('pageTitle') - Brigade Luctor et Emergo</title>
 
 <!-- Bootstrap core CSS -->
 <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">

@@ -1,12 +1,14 @@
 @extends('layout.mainlayout')
 
+@section('pageTitle', 'Nieuwe leden')
+
 @section('content')
     <div class="content">
         <div class="contact-section">
             <div class="container">
                 <div class="card">
                     <div class="card-body">
-                        <h1 align="center">Informatie nieuwe Leden</h1>
+                        <h1 align="center">Informatie nieuwe leden</h1>
                         <p>Voor het besluit om lid te worden van onze vereniging mag je twee zwemavonden “mee zwemmen”.
                             Voor de aanvang van deze avonden kun je je aanmelden bij de informatiebalie bij de
                             vertegenwoordiger van de Reddingsbrigade.</p>

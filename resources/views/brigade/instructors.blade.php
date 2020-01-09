@@ -1,5 +1,7 @@
 @extends('layout.mainlayout')
 
+@section('pageTitle', 'Instructeurs')
+
 @section('content')
     <div class="content">
         <div class="contact-section">
