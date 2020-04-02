@@ -24,6 +24,7 @@
         "vue-template-compiler": "^2.6.10"
     },
     "dependencies": {
+        "serialize-javascript": "^3.0.0",
         "startbootstrap-grayscale": "^5.0.9"
     }
 }
