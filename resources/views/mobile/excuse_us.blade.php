@@ -10,6 +10,7 @@
                     <h1>Het spijt ons!</h1>
                     <p>Dit onderdeel van de website is nog niet geschikt voor mobiel gebruik.</p>
                     <p>Wij proberen deze pagina zo snel mogelijk voor uw apparaat beschikbaar te hebben.</p>
+                    <strong><p>Bekijk deze pagina ondertussen via een computer of laptop.</p></strong>
                 </div>
             </div>
         </div>
