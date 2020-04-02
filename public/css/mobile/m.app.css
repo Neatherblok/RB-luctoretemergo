@@ -13,9 +13,9 @@
 /* Style navigation menu links */
 .m-topnav a {
     color: white;
-    padding: 14px 16px;
+    padding: .4rem .6rem;
     text-decoration: none;
-    font-size: 17px;
+    font-size: 1.2rem;
     display: block;
 }
 
@@ -26,6 +26,10 @@
     position: absolute;
     right: 0;
     top: 0;
+}
+
+a.m-active {
+    padding: 0;
 }
 
 /* Add a grey background color on mouse-over */

@@ -1,6 +1,6 @@
 <!-- Top Navigation Menu -->
 <div class="m-topnav">
-    <a href="/" class="m-active m-navLogo"><img src="{{ asset('assets/img/logo_lee.png') }}" style="height:1rem;"></a>
+    <a href="/" class="m-active m-navLogo"><img src="{{ asset('assets/img/logo_lee.png') }}" style="height:2.6rem;"></a>
     <!-- Navigation links (hidden by default) -->
     <div id="myLinks">
         <a href="/agenda">Agenda</a>
