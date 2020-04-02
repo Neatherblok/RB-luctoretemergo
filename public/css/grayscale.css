@@ -98,6 +98,16 @@
         outline: none;
         border-bottom: 0.25rem solid #64a19d;
     }
+
+    .agenda-badge {
+        color: #fff;
+        background-color: #0065bd;
+    }
+
+    .agenda-description {
+        font-weight: 300;
+        line-height: 1.2;
+    }
 }
 
 .masthead {
@@ -345,16 +355,6 @@ footer {
 
 .row-striped {
     padding: 15px 0;
-}
-
-.agenda-badge {
-    color: #fff;
-    background-color: #0065bd;
-}
-
-.agenda-description {
-    font-weight: 300;
-    line-height: 1.2;
 }
 
 .futureActivity:hover .description {

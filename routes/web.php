@@ -17,6 +17,23 @@ Route::get('/', function () {
 
 Route::get('/agenda', 'ActivitieController@index');
 
+Route::get('/pPKjeER4u8kNLfFfbS2', function() {
+    return view('mobile.excuse_us');
+});
+
+Route::get('/zwemmend-redden', function() {
+    return view('what_we_do.lifesaving');
+});
+
+Route::get('/theorie-begeleiding', function() {
+    return view('what_we_do.theory');
+});
+
+
+Route::get('/ehbo', function() {
+    return view('what_we_do.first_aid');
+});
+
 Route::get('/wie-wij-zijn', function() {
     return view('brigade.introduction');
 });

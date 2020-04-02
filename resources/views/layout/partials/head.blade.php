@@ -15,6 +15,7 @@
 
 <!-- Custom styles for this template -->
 <link href="css/grayscale.css" rel="stylesheet">
+<link href="css/mobile/m.app.css" rel="stylesheet">
 <link rel="icon" href="assets/img/rb_logo.ico" type="image/ico"/>
 
 @yield('customStyle')

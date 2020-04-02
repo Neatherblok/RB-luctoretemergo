@@ -1,5 +1,15 @@
 <?php
 
+$viewBasePath = realpath(base_path('resources/views'));
+
+$viewsPaths = [$viewBasePath];
+
+$agent = new Jenssegers\Agent\Agent();
+
+if ($agent->isMobile()) {
+    array_unshift($viewsPaths, $viewBasePath.'/mobile');
+}
+
 return [
 
     /*
@@ -13,9 +23,7 @@ return [
     |
     */
 
-    'paths' => [
-        resource_path('views'),
-    ],
+    'paths' => $viewsPaths,
 
     /*
     |--------------------------------------------------------------------------

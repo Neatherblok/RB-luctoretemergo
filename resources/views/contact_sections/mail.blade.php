@@ -1,5 +1,5 @@
 <div class="col-md-3 mb-3 mb-md-0">
-    <a href="mailto:info@red-luctor-et-emergo.nl" class="linkUnderlinelessg">
+    <a href="mailto:info@red-luctor-et-emergo.nl" class="linkUnderlineless">
         <div class="card py-4 h-100 p-2 contact-element">
             <div class="card-body text-center">
                 <i class="fas fa-envelope text-primary mb-2"></i>
