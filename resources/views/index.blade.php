@@ -15,7 +15,7 @@
             <div class="row">
                 <div class="col-lg-12 mx-auto">
                     <div class="row">
-                        <div class="col-md-4">
+                        <div class="col-md-4 sectionSelectionColumn">
                             <a href="/zwemmend-redden" class="linkUnderlineless">
                                 <div class="sectionSelection">
                                     <div class="sectionSelectionImage">
@@ -27,7 +27,7 @@
                                 </div>
                             </a>
                         </div>
-                        <div class="col-md-4">
+                        <div class="col-md-4 sectionSelectionColumn">
                             <a href="/theorie-begeleiding" class="linkUnderlineless">
                                 <div class="sectionSelection">
                                     <div class="sectionSelectionImage">
@@ -39,7 +39,7 @@
                                 </div>
                             </a>
                         </div>
-                        <div class="col-md-4">
+                        <div class="col-md-4 sectionSelectionColumn">
                             <a href="/ehbo" class="linkUnderlineless">
                                 <div class="sectionSelection">
                                     <div class="sectionSelectionImage">
