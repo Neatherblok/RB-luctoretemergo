@@ -13,9 +13,8 @@ body {
     position: relative;
     width: 100%;
     height: auto;
-    min-height: calc(29rem - (6rem));
+    min-height: calc(100% - 6rem);
     padding: 15rem 0;
-    background-color: #ff5800;
 }
 
 html>body .content {
@@ -31,18 +30,6 @@ html>body .content {
 .register-btn:hover {
     color: white;
     box-shadow: 0 10px 10px rgba(0,0,0,.3) !important;
-}
-
-@media (min-width: 1200px) {
-    .agenda-badge {
-        color: #fff;
-        background-color: #0065bd;
-    }
-
-    .agenda-description {
-        font-weight: 300;
-        line-height: 1.2;
-    }
 }
 
 .masthead {
@@ -131,11 +118,6 @@ html>body .content {
 
 .what-we-do-section p {
     margin-bottom: 5rem;
-}
-
-.agenda-section {
-    background: linear-gradient(to bottom, #ff5800 0%, rgba(255, 88, 0, 1) 98%, rgba(22, 22, 22, 1) 100%);
-    padding: 15rem 0;
 }
 
 .projects-section {
@@ -265,28 +247,6 @@ footer {
     bottom: 0;
 }
 
-.row-striped:nth-of-type(odd) {
-    background-color: #efefef;
-    border-left: 4px #0065bd solid;
-}
-
-.row-striped:nth-of-type(even) {
-    background-color: #ffffff;
-    border-left: 4px #efefef solid;
-}
-
-.row-striped {
-    padding: 15px 0;
-}
-
-.futureActivity:hover .description {
-    display: block;
-}
-
-.description {
-    display: none;
-}
-
 .imgWhatWeDoResize {
     height:auto;
     width: 33%
@@ -340,16 +300,6 @@ footer {
     font-family: inherit;
     margin: 0;
 }
-
-/*.navbar .nav-item {*/
-/*    transition: background-color .5s, box-shadow .5s;*/
-/*    border-radius: 5px;*/
-/*}*/
-
-/*.navbar .nav-item:hover {*/
-/*    background-color: rgba(255, 255, 255, 0.5);*/
-/*    box-shadow: 2px 2px rgba(0, 0, 0, 0.2);*/
-/*}*/
 
 .dropdown-content {
     display: none;
