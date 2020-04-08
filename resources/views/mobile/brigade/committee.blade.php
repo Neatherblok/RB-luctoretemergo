@@ -1,6 +1,6 @@
 <?php
 
-header("Location: /wie-wij-zijn");
+header("Location: /bestuur");
 die();
 
 

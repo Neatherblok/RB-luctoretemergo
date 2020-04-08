@@ -4,7 +4,7 @@
 
 @section('content')
     <div class="m-agendaContent pb-3 text-center">
-        <p class="mt-3">Wij zijn de Reddingsbrigade “Luctor et Emergo” uit Terneuzen.</p>
+        <p class="mt-3">Wij zijn de Reddingsbrigade <br><strong>“Luctor et Emergo”</strong><br> uit Terneuzen.</p>
         <p>In Terneuzen en omgeving is zo ontzettend veel water dat er makkelijk iemand in terecht
             kan komen. Als je dan kunt zwemmend redden en dus geleerd en geoefend hebt om iemand uit het water te helpen
             geeft dat toch een heel fijn gevoel.</p>
@@ -83,7 +83,7 @@
                     <li>Christiaan van Sabben</li>
                     <li>Vera de Bliek</li>
                     <li>Jurjan Bruins Slot</li>
-                    <li>Corné Westraete</li>
+                    <li>Corné Weststraete</li>
                     <li>Chantal Zahradnik</li>
                 </ul>
             </div>
@@ -246,7 +246,7 @@
             <a id="hide7" onclick="clickedActivity(this)" class="d-flex">
                 <div class="col-10">
                     <h5 style="color: #ff5800">
-                        <strong>Interesse?</strong>
+                        <strong>Contributie</strong>
                     </h5>
                 </div>
                 <div class="col-2">
@@ -256,6 +256,55 @@
                 </div>
             </a>
             <div class="details" id="details7">
+                <p class="mb-4">De contributieregeling voor de reddingsbrigade is als volgt:</p>
+                <table class="w-100">
+                    <tr>
+                        <td class="w-50"><u>Jeugdleden:</u></td>
+                        <td></td>
+                    </tr>
+                    <tr>
+                        <td>1 kind</td>
+                        <td class="text-right">€ 48,- per kwartaal</td>
+                    </tr>
+                    <tr>
+                        <td>2 kinderen</td>
+                        <td class="text-right">€ 93,- per kwartaal</td>
+                    </tr>
+                    <tr>
+                        <td>etc...</td>
+                    </tr>
+                </table>
+                <p><strong>Per kind extra uit hetzelfde gezin € 3,- minder per kwartaal</strong></p>
+                <hr>
+                <table class="w-100">
+                    <tr>
+                        <td class="w-50"><u>Gediplomeerde instructeurs: </u></td>
+                        <td class="text-right">€ 10,- per kwartaal</td>
+                    </tr>
+                </table>
+                <hr>
+                <table class="w-100">
+                    <tr>
+                        <td class="w-50"><u>Seniorleden:</u></td>
+                        <td class="text-right">€ 48,- per kwartaal</td>
+                    </tr>
+                </table>
+            </div>
+        </div>
+        <div class="m-row-striped text-left">
+            <a id="hide8" onclick="clickedActivity(this)" class="d-flex">
+                <div class="col-10">
+                    <h5 style="color: #ff5800">
+                        <strong>Interesse?</strong>
+                    </h5>
+                </div>
+                <div class="col-2">
+                    <div id="symbolActivity8">
+                        <i class="fas fa-plus"></i>
+                    </div>
+                </div>
+            </a>
+            <div class="details" id="details8">
                 <p>Wil je eens komen kijken of dit zwemmend redden iets voor jou is? Kom dan eens een avondje met
                     ons
                     mee zwemmen. Hoe snel of langzaam je zwemt is niet belangrijk dat verbetert met wat oefening

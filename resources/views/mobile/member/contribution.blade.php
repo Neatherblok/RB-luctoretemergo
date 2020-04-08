@@ -1,6 +1,4 @@
 <?php
 
-header("Location: /pPKjeER4u8kNLfFfbS2");
+header("Location: /bestuur");
 die();
-
-

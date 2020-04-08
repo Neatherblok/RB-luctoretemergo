@@ -9,7 +9,6 @@
         <a href="/statuten">Statuten</a>
         <a href="/gedragsregels">Gedragsregels</a>
         <a href="/info-nieuwe-leden">Nieuwe Leden</a>
-        <a href="/contributie">Contributie</a>
         <a href="/huishoudelijk-reglement">Huishoudelijk Reglement</a>
         <a href="/contact">Contact</a>
     </div>
