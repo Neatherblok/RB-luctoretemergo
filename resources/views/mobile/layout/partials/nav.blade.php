@@ -2,7 +2,7 @@
 <div class="m-topnav">
     <a href="/" class="m-active m-navLogo"><img src="{{ asset('assets/img/logo_lee.png') }}" style="height:3.2rem;"></a>
     <!-- Navigation links (hidden by default) -->
-    <div id="myLinks">
+    <div id="myLinks" class="m-navLinks">
         <a href="/agenda">Agenda</a>
         <a href="/wie-wij-zijn">Wie wij zijn</a>
         <a href="/bestuur">Bestuur</a>
