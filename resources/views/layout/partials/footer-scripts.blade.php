@@ -7,5 +7,6 @@
 
 <!-- Custom scripts for this template -->
 <script src="js/grayscale.min.js"></script>
+<script src="js/mobile/m.nav.js"></script>
 
 @yield('customJS')

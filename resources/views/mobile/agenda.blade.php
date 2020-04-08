@@ -48,5 +48,5 @@
 @endsection
 
 @section('customJS')
-    <script src="js/mobile/agenda.js"></script>
+    <script src="js/mobile/m.agenda.js"></script>
 @endsection

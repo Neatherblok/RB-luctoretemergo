@@ -20,11 +20,3 @@
         <i class="fa fa-bars"></i>
     </a>
 </div>
-
-@section('customStyle')
-    <link href="css/mobile/m.app.css" rel="stylesheet">
-@endsection
-
-@section('customJS')
-    <script src="js/mobile/m.app.js"></script>
-@endsection
