@@ -34,7 +34,7 @@ Route::get('/ehbo', function() {
     return view('what_we_do.first_aid');
 });
 
-Route::get('/wie-wij-zijn', function() {
+Route::get('/brigade', function() {
     return view('brigade.introduction');
 });
 

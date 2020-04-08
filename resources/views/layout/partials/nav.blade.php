@@ -16,7 +16,7 @@
                             <i class="fa fa-caret-down"></i>
                         </button>
                         <div class="dropdown-content">
-                            <a href="/wie-wij-zijn">Wie wij zijn</a>
+                            <a href="/brigade">Wie wij zijn</a>
                             <a href="/bestuur">Bestuur</a>
                             <a href="/instructeurs">Instructeurs</a>
                             <a href="/diplomas">Diploma's</a>
