@@ -102,7 +102,7 @@
                 </div>
             </a>
             <div class="details" id="details4">
-                <p>Onze huidige besturen bestaan op dit moment uit:</p>
+                <p>Het huidige bestuur bestaat op dit moment uit:</p>
                 <table class="art-geentabrand" style="width: 99%;" border="0" cellspacing="2" cellpadding="0">
                     <tbody>
                     <tr>
@@ -127,47 +127,6 @@
                     </tr>
                     </tbody>
                 </table>
-
-                <h4>Technische commissie</h4>
-                <table class="art-geentabrand" style="width: 99%;" border="0" cellspacing="2" cellpadding="0">
-                    <tbody>
-                    <tr>
-                        <td width="50%"><strong>Hoofd</strong></td>
-                        <td>Jan van Maren</td>
-                    </tr>
-                    <tr>
-                        <td><strong>Secretaresse</strong></td>
-                        <td>Joyce Veringmeier</td>
-                    </tr>
-                    <tr>
-                        <td><strong>Lid</strong></td>
-                        <td>Annemee van den Branden</td>
-                    </tr>
-                    <tr>
-                        <td><strong>Lid</strong></td>
-                        <td>Christiaan van Sabben</td>
-                    </tr>
-                    <tr>
-                        <td><strong>Lid</strong></td>
-                        <td>Chantal Zahradnik</td>
-                    </tr>
-                    </tbody>
-                </table>
-
-                <h4>Evenemenetencommissie</h4>
-                <table class="art-geentabrand" style="width: 99%;" border="0" cellspacing="2" cellpadding="0">
-                    <tbody>
-                    <tr>
-                        <td width="50%"><strong>Hoofd Evenementen</strong></td>
-                        <td>Annemee van den Branden</td>
-                    </tr>
-                    <tr>
-                        <td><strong>Lid</strong></td>
-                        <td>Jurjan Bruins Slot</td>
-                    </tr>
-                    </tbody>
-                </table>
-                <p><strong>Leden zijn per activiteit verschillend</strong></p>
             </div>
         </div>
         <div class="m-row-striped text-left">
@@ -246,7 +205,7 @@
             <a id="hide7" onclick="clickedActivity(this)" class="d-flex">
                 <div class="col-10">
                     <h5 style="color: #ff5800">
-                        <strong>Contributie</strong>
+                        <strong>Interesse?</strong>
                     </h5>
                 </div>
                 <div class="col-2">
@@ -256,6 +215,33 @@
                 </div>
             </a>
             <div class="details" id="details7">
+                <p>Wil je eens komen kijken of dit zwemmend redden iets voor jou is? Kom dan eens een avondje met
+                    ons
+                    mee zwemmen. Hoe snel of langzaam je zwemt is niet belangrijk dat verbetert met wat oefening
+                    vanzelf
+                    wel.</p>
+                <p>Breng direct je zwemkleding maar mee. Meld je om iets voor zeven uur aan de balie in de hal van
+                    zwembad 'de Vliegende Vaart' in Terneuzen. De mevrouw die daar zit zorgt er voor dat je dezelfde
+                    avond al mee kunt zwemmen.</p>
+                <p>Je kunt er dan later beter over beslissen of je dit wel of niet wilt.</p>
+                <p>Voor nog meer inlichtingen kun je iedere maandagavond tot half negen in het zwembad terecht of
+                    even bellen.</p>
+            </div>
+        </div>
+        <div class="m-row-striped text-left">
+            <a id="hide8" onclick="clickedActivity(this)" class="d-flex">
+                <div class="col-10">
+                    <h5 style="color: #ff5800">
+                        <strong>Contributie</strong>
+                    </h5>
+                </div>
+                <div class="col-2">
+                    <div id="symbolActivity8">
+                        <i class="fas fa-plus"></i>
+                    </div>
+                </div>
+            </a>
+            <div class="details" id="details8">
                 <p class="mb-4">De contributieregeling voor de reddingsbrigade is als volgt:</p>
                 <table class="w-100">
                     <tr>
@@ -289,33 +275,6 @@
                         <td class="text-right">€ 48,- per kwartaal</td>
                     </tr>
                 </table>
-            </div>
-        </div>
-        <div class="m-row-striped text-left">
-            <a id="hide8" onclick="clickedActivity(this)" class="d-flex">
-                <div class="col-10">
-                    <h5 style="color: #ff5800">
-                        <strong>Interesse?</strong>
-                    </h5>
-                </div>
-                <div class="col-2">
-                    <div id="symbolActivity8">
-                        <i class="fas fa-plus"></i>
-                    </div>
-                </div>
-            </a>
-            <div class="details" id="details8">
-                <p>Wil je eens komen kijken of dit zwemmend redden iets voor jou is? Kom dan eens een avondje met
-                    ons
-                    mee zwemmen. Hoe snel of langzaam je zwemt is niet belangrijk dat verbetert met wat oefening
-                    vanzelf
-                    wel.</p>
-                <p>Breng direct je zwemkleding maar mee. Meld je om iets voor zeven uur aan de balie in de hal van
-                    zwembad 'de Vliegende Vaart' in Terneuzen. De mevrouw die daar zit zorgt er voor dat je dezelfde
-                    avond al mee kunt zwemmen.</p>
-                <p>Je kunt er dan later beter over beslissen of je dit wel of niet wilt.</p>
-                <p>Voor nog meer inlichtingen kun je iedere maandagavond tot half negen in het zwembad terecht of
-                    even bellen.</p>
             </div>
         </div>
     </div>

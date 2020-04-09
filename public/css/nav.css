@@ -29,7 +29,7 @@
 .m-topnav { overflow: hidden; background-color: rgb(0, 101, 189); position: relative; }
 .m-topnav #myLinks { display: none; }
 .m-topnav a { color: white; padding: .4rem .8rem; text-decoration: none; font-size: 1.6rem; display: block; }
-.m-topnav a.icon { display: block; position: absolute; right: 0; top: 0; border-radius: 5px; box-shadow: -10px 0px 10px 0px rgba(0,0,0,0.3), 10px 0px 10px 0px rgba(0,0,0,0.3);}
+.m-topnav a.icon { display: block; position: absolute; right: 0; top: 0; border-radius: 5px 0 0 5px; box-shadow: -10px 0px 10px 0px rgba(0,0,0,0.3), 10px 0px 10px 0px rgba(0,0,0,0.3);}
 a.m-active { padding: 0; }
 .m-active, a.m-active:hover { color: white; }
 .m-navLinks { background-color: rgb(255, 88, 0);}
