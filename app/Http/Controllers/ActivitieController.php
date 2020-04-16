@@ -9,7 +9,7 @@ class ActivitieController extends Controller
 {
     public function index()
     {
-        $activities = \App\Activitie::active()->orderBy('date')->paginate(8);
+        $activities = \App\Activitie::active()->orderBy('date')->paginate(5);
 
         return view('agenda', ["activities" => $activities]);
     }

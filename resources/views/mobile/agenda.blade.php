@@ -3,7 +3,7 @@
 @section('pageTitle', 'Agenda')
 
 @section('content')
-    <div class="m-agendaContent pb-3">
+    <div class="m-agendaContent">
         <p class="text-center agenda-description mt-3">Op deze pagina treft u een overzicht met alle aankomende
             activiteiten.</p>
         @php($i=1)

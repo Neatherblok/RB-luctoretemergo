@@ -13,7 +13,7 @@
 
 /*Mobile*/
 
-.m-agendaContent {background-color: #f3f3f3;}
+.m-agendaContent {background-color: #f3f3f3; width: 100%; padding: 0 0 5rem 0;}
 .m-row-striped { margin: 0rem .5rem .5rem .5rem; background-color: white; padding: .5rem .5rem 0rem .5rem; border-radius: 5px;}
 
 .m-row-striped a {

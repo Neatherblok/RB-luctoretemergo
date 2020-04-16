@@ -1,21 +1,47 @@
 /*Desktop*/
 
-#mainNav { min-height: 56px; background-color: rgba(0, 101, 189, 0.9);}
+#mainNav { height: 5.5rem; padding-top: 0.25rem; padding-bottom: 0.25rem; border-bottom: none; background-color: rgba(0, 101, 189, 0.9); transition: background-color 0.3s ease-in-out; }
 #mainNav.navbar-shrink { box-shadow: 0 4px 8px 0 rgba(22, 22, 22, 0.2), 0 6px 20px 0 rgba(22, 22, 22, 0.19); }
 #mainNav .navbar-toggler { font-size: 80%; padding: 0.75rem; color: #64a19d; border: 1px solid #64a19d; background-color: #fff; }
 #mainNav .navbar-toggler:focus { outline: none; }
-#mainNav .navbar-brand { color: #161616; font-weight: 700; padding: 0.9rem 0; }
+#mainNav .navbar-brand { color: rgba(255, 255, 255, 0.75); text-shadow: 0 3px 3px rgba(0, 0, 0, 0.3); transition: color .3s; font-weight: 700; font-size: 3vw; }
+#mainNav .navbar-brand:hover { color: rgba(255, 255, 255, 1);  }
 #mainNav .navbar-nav nav-item:hover { color: fade(white, 80%); outline: none; }
 #mainNav .navbar-nav .nav-item:active, #mainNav .navbar-nav .nav-item:focus { outline: none; background-color: transparent; }
-.navbar .nav-item { transition: background-color .5s, box-shadow .5s; border-radius: 5px; }
-.navbar .nav-item:hover { background-color: rgba(255, 255, 255, 0.5); box-shadow: 2px 2px rgba(0, 0, 0, 0.2); }
+.navbar .nav-item { transition: background-color .5s, box-shadow .5s; border-radius: 5px;}
+.navbar .nav-item:hover { background-color: rgba(255, 255, 255, 0.5); box-shadow: 2px 1px rgba(0, 0, 0, 0.2);}
+.dropdown .dropbtn { font-size: 16px; border: none; outline: none; color: white; background-color: inherit; font-family: inherit; margin: 0; }
+#mainNav .nav-link { color: rgba(255, 255, 255, 0.5); }
+.dropdown-content { display: none; position: absolute; background-color: #f9f9f9; min-width: 160px; box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2); z-index: 1; border-radius:5px; }
+.dropdown-content a { float: none; color: black; padding: 12px 16px; text-decoration: none; display: block; text-align: center; }
+.dropdown-content a:hover { background-color: #ddd; }
+.dropdown:hover .dropdown-content { display: block; }
+.linkUnderlineless { text-decoration: none; }
+
+@media (max-width: 553px){
+    .navbar-toggler, .navbar-brand {margin-left:auto; margin-right:auto}
+}
+
+@media (min-width: 800px){
+    #mainNav .navbar-brand { font-size:1.5rem;}
+    #mainNav .nav-link { transition: none;}
+    #mainNav .nav-link:hover {color: rgba(255, 255, 255, 1);}
+}
+
+@media(max-width: 992px) {
+    #mainNav {height: auto;}
+    #mainNav .nav-link {color: rgba(255, 255, 255, 1);}
+}
+
+@media (min-width: 992px) {
+    #mainNav .navbar-brand {padding: 2rem 1.5rem}
+}
 
 @media (min-width: 1200px) {
     #mainNav { padding-top: 0; padding-bottom: 0; border-bottom: none; background-color: rgba(0, 101, 189, 0.9); transition: background-color 0.3s ease-in-out; }
-    #mainNav .navbar-brand { padding: 0.5rem 2rem; color: rgba(255, 255, 255, 0.75); text-shadow: 0 3px 3px rgba(0, 0, 0, 0.3); transition: color .3s}
-    #mainNav .nav-link { transition: none; padding: 2rem 1.5rem; color: rgba(255, 255, 255, 0.5); }
+    #mainNav .navbar-brand {color: rgba(255, 255, 255, 0.75); text-shadow: 0 3px 3px rgba(0, 0, 0, 0.3); transition: color .3s}
     #mainNav .navbar-brand:hover { color: rgba(255, 255, 255, 1);  }
-    #mainNav .nav-link:active { color: white; }
+    #mainNav .nav-link { padding: 2rem 1.5rem; }
     #mainNav.navbar-shrink { background-color: #0065bd; }
     #mainNav.navbar-shrink .navbar-brand { color: #fff; }
     #mainNav.navbar-shrink .nav-link { color: #fff; padding: 1.5rem 1.5rem 1.25rem; border-bottom: 0.25rem solid transparent; }
@@ -26,7 +52,7 @@
 
 /*Mobile*/
 
-.m-topnav { overflow: hidden; background-color: rgb(0, 101, 189); position: relative; }
+.m-topnav {overflow: hidden; background-color: rgb(0, 101, 189); position: relative; }
 .m-topnav #myLinks { display: none; }
 .m-topnav a { color: white; padding: .4rem .8rem; text-decoration: none; font-size: 1.6rem; display: block; }
 .m-topnav a.icon { display: block; position: absolute; right: 0; top: 0; border-radius: 5px 0 0 5px; box-shadow: -10px 0px 10px 0px rgba(0,0,0,0.3), 10px 0px 10px 0px rgba(0,0,0,0.3);}

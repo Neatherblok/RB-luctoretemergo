@@ -6,10 +6,8 @@
         <a href="/agenda">Agenda</a>
         <a href="/brigade">De Brigade</a>
         <a href="/diplomas">Diploma's</a>
-        <a href="/statuten">Statuten</a>
-        <a href="/gedragsregels">Gedragsregels</a>
+        <a href="/gedragsregels">Regels</a>
         <a href="/info-nieuwe-leden">Nieuwe Leden</a>
-        <a href="/huishoudelijk-reglement">Huishoudelijk Reglement</a>
         <a href="/contact">Contact</a>
     </div>
     <!-- "Hamburger menu" / "Bar icon" to toggle the navigation links -->

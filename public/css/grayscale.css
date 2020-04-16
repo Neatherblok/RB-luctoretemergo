@@ -1,5 +1,5 @@
 html, body {
-    height: 100%;
+    height: 100vh;
     margin: 0;
 }
 
@@ -9,15 +9,17 @@ body {
     background-color: #f3f3f3;
 }
 
-.content {
+.page-container {
     position: relative;
-    width: 100%;
-    height: auto;
-    min-height: calc(100% - 6rem);
-    padding: 15rem 0;
+    min-height: 100vh;
 }
 
-html>body .content {
+.content {
+    width: 100%;
+    padding: 6.5rem 0 5rem 0;
+}
+
+html > body .content {
     height: auto;
 }
 
@@ -29,7 +31,7 @@ html>body .content {
 
 .register-btn:hover {
     color: white;
-    box-shadow: 0 10px 10px rgba(0,0,0,.3) !important;
+    box-shadow: 0 10px 10px rgba(0, 0, 0, .3) !important;
 }
 
 .masthead {
@@ -110,14 +112,9 @@ html>body .content {
 }
 
 .what-we-do-section {
-    padding: 5rem 0 2rem 0;
-    width:80%;
-    height: auto;
-    margin:5rem auto 5rem auto;
-}
-
-.what-we-do-section p {
-    margin-bottom: 5rem;
+    padding: 2rem 0 2rem 0;
+    width: 80%;
+    margin: 0 auto 0 auto;
 }
 
 .projects-section {
@@ -138,6 +135,12 @@ html>body .content {
 .projects-section .project-text {
     padding: 3rem;
     font-size: 90%;
+}
+
+@media (max-width: 553px) {
+    .content {
+        padding-top: 9.5rem
+    }
 }
 
 @media (min-width: 992px) {
@@ -243,13 +246,80 @@ a:hover {
 }
 
 footer {
-    padding: 2rem 0;
+    position: absolute;
     bottom: 0;
+    width: 100%;
+    text-align: center;
+    line-height: 4rem;
+    height: 4rem;
 }
 
 .imgWhatWeDoResize {
-    height:auto;
-    width: 33%
+    height: 10vh;
+    width: auto;
+}
+
+.tiles-container {
+    margin-left: -1.38889%;
+    margin-right: -1.38889%;
+    display: flex;
+    flex-wrap: wrap;
+    width: calc(100% + 1.38889% + 1.38889%);
+}
+
+.innercontainer{
+    max-width: 100%;
+}
+
+.tile-grid{
+margin-bottom: 30px;
+padding-left: 1.38889%;
+padding-right: 1.38889%;
+width: 100%;
+}
+
+@media screen and (min-width: 1250px) {
+    .tile-grid {
+        width: 33.3%;
+    }
+}
+
+.tile {
+    position: relative;
+}
+
+.tile__img {
+    position: relative;
+    background-size: cover;
+    padding-top: 66.66%;
+    padding-bottom: 91px;
+    background-position: center;
+}
+
+.tile__img img {
+    display: none;
+    width: 100%;
+}
+
+@media screen and (max-width: 767px) {
+    .tile-grid {
+        width: 50%;
+    }
+
+    .tile__img {
+        height: auto;
+        overflow: visible;
+        position: static;
+        border: 0;
+        padding: 0;
+        width: 100%;
+    }
+    .tile__img img {
+        display: block;
+        width: 100%;
+        margin: 0;
+        height: auto;
+    }
 }
 
 .sectionSelectionColumn {
@@ -266,18 +336,20 @@ footer {
     flex-direction: column;
 }
 
-.sectionSelection .sectionSelectionImage {
-    margin-top: 1rem;
-    margin-bottom: auto;
-}
+/*.sectionSelection .sectionSelectionImage img {*/
+/*    margin-top: 1rem;*/
+/*    height: 10vh;*/
+/*}*/
+
 
 .sectionSelection .sectionSelectionText {
-    margin-top: auto;
+    margin: 1vh;
+    font-size: 1vw;
 }
 
 .sectionSelection:hover {
-    box-shadow: 0 30px 30px rgba(0,0,0,.3);
-    background-color: rgba(0,80,116,0.5);
+    box-shadow: 0 30px 30px rgba(0, 0, 0, .3);
+    background-color: rgba(0, 80, 116, 0.5);
     color: white;
 }
 
@@ -287,49 +359,7 @@ footer {
 
 .contact-element:hover {
     background-color: #005074;
-    color:white;
-}
-
-.dropdown .dropbtn {
-    font-size: 16px;
-    border: none;
-    outline: none;
     color: white;
-    padding: 14px 16px;
-    background-color: inherit;
-    font-family: inherit;
-    margin: 0;
-}
-
-.dropdown-content {
-    display: none;
-    position: absolute;
-    background-color: #f9f9f9;
-    min-width: 160px;
-    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
-    z-index: 1;
-    border-radius:5px;
-}
-
-.dropdown-content a {
-    float: none;
-    color: black;
-    padding: 12px 16px;
-    text-decoration: none;
-    display: block;
-    text-align: left;
-}
-
-.dropdown-content a:hover {
-    background-color: #ddd;
-}
-
-.dropdown:hover .dropdown-content {
-    display: block;
-}
-
-.linkUnderlineless {
-    text-decoration: none;
 }
 
 table {

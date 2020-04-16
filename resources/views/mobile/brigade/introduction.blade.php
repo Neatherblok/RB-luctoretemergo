@@ -3,8 +3,8 @@
 @section('pageTitle', 'Wie zijn wij')
 
 @section('content')
-    <div class="m-agendaContent pb-3 text-center">
-        <p class="mt-3">Wij zijn de Reddingsbrigade <br><strong>“Luctor et Emergo”</strong><br> uit Terneuzen.</p>
+    <div class="m-agendaContent text-center pt-3">
+        <p>Wij zijn de Reddingsbrigade <br><strong>“Luctor et Emergo”</strong><br> uit Terneuzen.</p>
         <p>In Terneuzen en omgeving is zo ontzettend veel water dat er makkelijk iemand in terecht
             kan komen. Als je dan kunt zwemmend redden en dus geleerd en geoefend hebt om iemand uit het water te helpen
             geeft dat toch een heel fijn gevoel.</p>
