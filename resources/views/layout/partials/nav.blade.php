@@ -15,12 +15,12 @@
                             <i class="fa fa-caret-down"></i>
                         </button>
                         <div class="dropdown-content">
-                            <a href="/brigade">Wie wij zijn</a>
-                            <a href="/bestuur">Bestuur</a>
-                            <a href="/instructeurs">Instructeurs</a>
-                            <a href="/diplomas">Diploma's</a>
-                            <a href="/statuten">Statuten</a>
-                            <a href="/gedragsregels">Gedragsregels</a>
+                            <a href="/brigade" class="linkUnderlineless">Wie wij zijn</a>
+                            <a href="/bestuur" class="linkUnderlineless">Bestuur</a>
+                            <a href="/instructeurs" class="linkUnderlineless">Instructeurs</a>
+                            <a href="/diplomas" class="linkUnderlineless">Diploma's</a>
+                            <a href="/statuten" class="linkUnderlineless">Statuten</a>
+                            <a href="/gedragsregels" class="linkUnderlineless">Gedragsregels</a>
 
                         </div>
                     </div>
@@ -31,9 +31,9 @@
                             <i class="fa fa-caret-down"></i>
                         </button>
                         <div class="dropdown-content">
-                            <a href="/info-nieuwe-leden">Nieuwe leden</a>
-                            <a href="/contributie">Contributie</a>
-                            <a href="/huishoudelijk-reglement">Huishoudelijk reglement</a>
+                            <a href="/info-nieuwe-leden" class="linkUnderlineless">Nieuwe leden</a>
+                            <a href="/contributie" class="linkUnderlineless">Contributie</a>
+                            <a href="/huishoudelijk-reglement" class="linkUnderlineless">Huishoudelijk reglement</a>
                         </div>
                     </div>
                 </li>

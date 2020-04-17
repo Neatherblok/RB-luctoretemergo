@@ -13,10 +13,10 @@
 .dropdown .dropbtn { font-size: 16px; border: none; outline: none; color: white; background-color: inherit; font-family: inherit; margin: 0; }
 #mainNav .nav-link { color: rgba(255, 255, 255, 0.5); }
 .dropdown-content { display: none; position: absolute; background-color: #f9f9f9; min-width: 160px; box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2); z-index: 1; border-radius:5px; }
-.dropdown-content a { float: none; color: black; padding: 12px 16px; text-decoration: none; display: block; text-align: center; }
+.dropdown-content a { float: none; color: black; padding: 12px 16px; display: block; text-align: center; }
 .dropdown-content a:hover { background-color: #ddd; }
 .dropdown:hover .dropdown-content { display: block; }
-.linkUnderlineless { text-decoration: none; }
+.linkUnderlineless { text-decoration: none !important; }
 
 @media (max-width: 553px){
     .navbar-toggler, .navbar-brand {margin-left:auto; margin-right:auto}
