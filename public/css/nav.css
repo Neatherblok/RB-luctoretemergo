@@ -28,7 +28,7 @@
     #mainNav .nav-link:hover {color: rgba(255, 255, 255, 1);}
 }
 
-@media(max-width: 992px) {
+@media(max-width: 991px) {
     #mainNav {height: auto;}
     #mainNav .nav-link {color: rgba(255, 255, 255, 1);}
 }
