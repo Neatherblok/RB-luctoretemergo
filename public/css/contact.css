@@ -1,0 +1,25 @@
+/*Desktop*/
+
+
+
+/*Mobile*/
+
+.m-agendaContent h2 {
+    letter-spacing: 0.01rem;
+    font-size: 4vw;
+    font-family: "Arial";
+}
+
+.m-agendaContent h4 {
+    letter-spacing: 0.01rem;
+    font-size: 3.5vw;
+    font-family: "Arial";
+}
+
+.m-agendaContent p, m.m-agendaContent a {
+    font-size: 3.5vw;
+}
+
+.m-contactBlocks {
+    color: #458aff
+}

@@ -17,6 +17,7 @@
 <link href="css/grayscale.css" rel="stylesheet">
 <link href="css/nav.css" rel="stylesheet">
 <link href="css/agenda.css" rel="stylesheet">
+<link href="css/contact.css" rel="stylesheet">
 
 <!--Custom icon viewable in the tab-->
 <link rel="icon" href="assets/img/rb_logo.ico" type="image/ico"/>
