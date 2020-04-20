@@ -10,7 +10,7 @@
 
 
         <a href="http://red-luctor-et-emergo.nl/images/info/er_juniorredder_1.pdf"
-                   target="_blank" class="linkUnderlineless m-row-striped d-flex">
+                   target="_blank" class="m-row-striped d-flex">
             <div class="col-10">
                 <h5>
                     <strong>Junior Redder 1</strong>
@@ -23,7 +23,7 @@
             </div>
         </a>
         <a href="http://red-luctor-et-emergo.nl/images/info/er_juniorredder_2.pdf"
-           target="_blank" class="linkUnderlineless m-row-striped d-flex">
+           target="_blank" class="m-row-striped d-flex">
             <div class="col-10">
                 <h5>
                     <strong>Junior Redder 2</strong>
@@ -36,7 +36,7 @@
             </div>
         </a>
         <a href="http://red-luctor-et-emergo.nl/images/info/er_juniorredder_3.pdf"
-           target="_blank" class="linkUnderlineless m-row-striped d-flex">
+           target="_blank" class="m-row-striped d-flex">
             <div class="col-10">
                 <h5>
                     <strong>Junior Redder 3</strong>
@@ -49,7 +49,7 @@
             </div>
         </a>
         <a href="http://red-luctor-et-emergo.nl/images/info/er_juniorredder_4.pdf"
-           target="_blank" class="linkUnderlineless m-row-striped d-flex">
+           target="_blank" class="m-row-striped d-flex">
             <div class="col-10">
                 <h5>
                     <strong>Junior Redder 4</strong>
@@ -62,7 +62,7 @@
             </div>
         </a>
         <a href="http://red-luctor-et-emergo.nl/images/info/er_zwemmendredder_1.pdf"
-           target="_blank" class="linkUnderlineless m-row-striped d-flex">
+           target="_blank" class="m-row-striped d-flex">
             <div class="col-10">
                 <h5>
                     <strong>Zwemmend Redder 1</strong>
@@ -75,7 +75,7 @@
             </div>
         </a>
         <a href="http://red-luctor-et-emergo.nl/images/info/er_zwemmendredder_2.pdf"
-           target="_blank" class="linkUnderlineless m-row-striped d-flex">
+           target="_blank" class="m-row-striped d-flex">
             <div class="col-10">
                 <h5>
                     <strong>Zwemmend Redder 2</strong>
@@ -88,7 +88,7 @@
             </div>
         </a>
         <a href="http://red-luctor-et-emergo.nl/images/info/er_zwemmendredder_3.pdf"
-           target="_blank" class="linkUnderlineless m-row-striped d-flex">
+           target="_blank" class="m-row-striped d-flex">
             <div class="col-10">
                 <h5>
                     <strong>Zwemmend Redder 3</strong>
@@ -101,7 +101,7 @@
             </div>
         </a>
         <a href="http://red-luctor-et-emergo.nl/images/info/er_zwemmendredder_4.pdf"
-           target="_blank" class="linkUnderlineless m-row-striped d-flex">
+           target="_blank" class="m-row-striped d-flex">
             <div class="col-10">
                 <h5>
                     <strong>Zwemmend Redder 4</strong>
@@ -114,7 +114,7 @@
             </div>
         </a>
         <a href="http://red-luctor-et-emergo.nl/images/info//er_lifesaver_1.pdf"
-           target="_blank" class="linkUnderlineless m-row-striped d-flex">
+           target="_blank" class="m-row-striped d-flex">
             <div class="col-10">
                 <h5>
                     <strong>Life Saver 1</strong>
@@ -127,7 +127,7 @@
             </div>
         </a>
         <a href="http://red-luctor-et-emergo.nl/images/info//er_lifesaver_2.pdf"
-           target="_blank" class="linkUnderlineless m-row-striped d-flex">
+           target="_blank" class="m-row-striped d-flex">
             <div class="col-10">
                 <h5>
                     <strong>Life Saver 2</strong>
@@ -140,7 +140,7 @@
             </div>
         </a>
         <a href="http://red-luctor-et-emergo.nl/images/info//er_lifesaver_3.pdf"
-           target="_blank" class="linkUnderlineless m-row-striped d-flex">
+           target="_blank" class="m-row-striped d-flex">
             <div class="col-10">
                 <h5>
                     <strong>Life Saver 3</strong>
