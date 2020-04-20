@@ -11,7 +11,7 @@
             <div class="m-row-striped">
                 <a id="hide{{$i}}" onclick="clickedActivity(this)" class="d-flex">
                     <div class="col-10">
-                        <h5 style="color: #ff5800">
+                        <h5>
                             <strong>{{$activity->title}}</strong>
                         </h5>
                         <h6 style="color: #0065bd">

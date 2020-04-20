@@ -20,6 +20,10 @@
     text-decoration: none;
 }
 
+.m-row-striped h5, .m-row-striped i {
+    color: #ff5800;
+}
+
 .details {
     display:none;
     padding: .3rem .5rem .3rem 1rem;

@@ -11,7 +11,7 @@
     <div class="m-row-striped text-left">
         <a id="hide1" onclick="clickedActivity(this)" class="d-flex">
             <div class="col-10">
-                <h5 style="color: #ff5800">
+                <h5>
                     <strong>Gedrags Reglement</strong>
                 </h5>
             </div>
@@ -137,7 +137,7 @@
     <div class="m-row-striped text-left">
         <a id="hide2" onclick="clickedActivity(this)" class="d-flex">
             <div class="col-10">
-                <h5 style="color: #ff5800">
+                <h5>
                     <strong>Huishoudelijk reglement</strong>
                 </h5>
             </div>
@@ -357,7 +357,7 @@
     <div class="m-row-striped text-left">
         <a id="hide3" onclick="clickedActivity(this)" class="d-flex">
             <div class="col-10">
-                <h5 style="color: #ff5800">
+                <h5>
                     <strong>Statuten</strong>
                 </h5>
             </div>

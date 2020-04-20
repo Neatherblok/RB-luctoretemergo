@@ -13,7 +13,7 @@
         <div class="m-row-striped text-left">
             <a id="hide1" onclick="clickedActivity(this)" class="d-flex">
                 <div class="col-10">
-                    <h5 style="color: #ff5800">
+                    <h5>
                         <strong>Waar staan wij voor</strong>
                     </h5>
                 </div>
@@ -31,7 +31,7 @@
         <div class="m-row-striped text-left">
             <a id="hide2" onclick="clickedActivity(this)" class="d-flex">
                 <div class="col-10">
-                    <h5 style="color: #ff5800">
+                    <h5>
                         <strong>Hoe wij opleiden</strong>
                     </h5>
                 </div>
@@ -60,7 +60,7 @@
         <div class="m-row-striped text-left">
             <a id="hide3" onclick="clickedActivity(this)" class="d-flex">
                 <div class="col-10">
-                    <h5 style="color: #ff5800">
+                    <h5>
                         <strong>Instructeurs</strong>
                     </h5>
                 </div>
@@ -91,7 +91,7 @@
         <div class="m-row-striped text-left">
             <a id="hide4" onclick="clickedActivity(this)" class="d-flex">
                 <div class="col-10">
-                    <h5 style="color: #ff5800">
+                    <h5>
                         <strong>Bestuur</strong>
                     </h5>
                 </div>
@@ -132,7 +132,7 @@
         <div class="m-row-striped text-left">
             <a id="hide5" onclick="clickedActivity(this)" class="d-flex">
                 <div class="col-10">
-                    <h5 style="color: #ff5800">
+                    <h5>
                         <strong>Technische Commissie</strong>
                     </h5>
                 </div>
@@ -173,7 +173,7 @@
         <div class="m-row-striped text-left">
             <a id="hide6" onclick="clickedActivity(this)" class="d-flex">
                 <div class="col-10">
-                    <h5 style="color: #ff5800">
+                    <h5>
                         <strong>Evenementen Commissie</strong>
                     </h5>
                 </div>
@@ -204,7 +204,7 @@
         <div class="m-row-striped text-left">
             <a id="hide7" onclick="clickedActivity(this)" class="d-flex">
                 <div class="col-10">
-                    <h5 style="color: #ff5800">
+                    <h5>
                         <strong>Interesse?</strong>
                     </h5>
                 </div>
@@ -231,7 +231,7 @@
         <div class="m-row-striped text-left">
             <a id="hide8" onclick="clickedActivity(this)" class="d-flex">
                 <div class="col-10">
-                    <h5 style="color: #ff5800">
+                    <h5>
                         <strong>Contributie</strong>
                     </h5>
                 </div>
