@@ -43,7 +43,7 @@
                                     <img src="{{ asset('assets/img/EHBO_koffer.png') }}">
                                 </div>
                                 <div class="sectionSelectionText">
-                                    <p class="mt-4">Eerste Hulp</p>
+                                    <p class="mt-4">EHBO</p>
                                 </div>
                             </div>
                         </a>

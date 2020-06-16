@@ -12,35 +12,25 @@
                         <p>In Terneuzen en omgeving is zo ontzettend veel water dat er makkelijk iemand in terecht kan
                             komen. Als je dan kunt zwemmend redden en dus geleerd en geoefend hebt om iemand uit het
                             water te helpen geeft
-                            dat toch een heel fijn gevoel.</p>
-
-                        <p>Hierdoor kan je hobby, het zwemmen, tevens mensenlevens redden.</p>
+                            dat toch een heel fijn gevoel.<br>
+                            Hierdoor kan je hobby, het zwemmen, tevens mensenlevens redden.</p>
                         <p>Elke maandagavond zwemmen wij in het zwembad in Sportcentrum “Vliegende Vaart” te
-                            Terneuzen.
+                            Terneuzen en trainen wij nieuwe dingen aan volgens de diploma lijn die we volgens van
+                            Reddingsbrigade Nederland.
                         </p>
-
-                        <p>Wij hebben verschillende leeftijdsgroepen waarin voor een bepaald brevet zwemmend redden
-                            geoefend wordt. Eerst wordt er getraind om je uithoudingsvermogen groter te maken,
-                            dit duurt natuurlijk niet de hele avond, elke week een beetje meer.
+                        <p>Onze diploma lijn bestaat uit 3 verschillende niveau's, namelijk het Junior Redder (+/- 6 –
+                            10 jaar), Zwemmend Redder (+/- 10 – 14 jaar) en Life Saver(+/- 14 – 18 jaar).<br>
+                            Bij elk niveau wordt er een ander onderdeel behandeld van het reddend zwemmen, zo zorgen wij
+                            er voor dat alle leerlingen geleidelijk aan het reddend zwemmen onder de knie krijgen.<br>
+                            Junior Redder is onder verdeeld in 4 diploma's. Gedurende deze diploma's ligt de nadruk
+                            voornamelijk op zelfredzaamheid. De belangrijkste regel van het reddend zwemmen is: let
+                            altijd eerst op jouw eigen veiligheid voor je iemand anders wilt gaan redden.<br>
+                            Het volgende niveau is Zwemmend Redder, ook dit niveau is verdeeld in 4 diploma's. Hier leer
+                            je geleidelijk hoe je iemand anders kan redden vanaf de kant maar ook in het water.
+                            Zowel de Junior Redder als Zwemmend Redder zijn alleen praktijk gerichte lessen.<br>
+                            Wanneer je deze diploma's in jouw bezit hebt volgt de Life Saver, onderverdeeld in 3
+                            diploma's. Vanaf dit punt zijn er ook theorie lessen.
                         </p>
-
-                        <p>Vanaf het begin ook worden er verschillende onderdelen van het zwemmend redden geleerd. We
-                            denken dan aan het opduiken van ringen en dat wordt later een pop en nog later als het nodig
-                            is een drenkeling.
-                        </p>
-
-                        <p>Met elk nieuw brevet moeten je vaardigheden groter worden.</p>
-                        <p>Je zult ook leren dat bij het redden van mensen toch steeds je eigen veiligheid voorop blijft
-                            staan.
-                        </p>
-                        <p>
-                            We werken bij de reddingsbrigade met verschillende niveau's:
-                        </p>
-                        <ul>
-                            <li>Junior Redder 1 t/m 4 (+/- 6 – 10 jaar)</li>
-                            <li>Zwemmend Redder 1 t/m 4 (+/- 10 – 14 jaar)</li>
-                            <li>Life Saver 1 t/m 3 (+/- 14 – 18 jaar)</li>
-                        </ul>
                     </div>
                 </div>
             </div>

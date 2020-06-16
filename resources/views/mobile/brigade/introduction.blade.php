@@ -215,17 +215,18 @@
                 </div>
             </a>
             <div class="details" id="details7">
-                <p>Wil je eens komen kijken of dit zwemmend redden iets voor jou is? Kom dan eens een avondje met
-                    ons
+                <p>Wil je eens komen kijken of dit zwemmend redden iets voor jou is? Dan mag je tot twee zwemavonden
                     mee zwemmen. Hoe snel of langzaam je zwemt is niet belangrijk dat verbetert met wat oefening
                     vanzelf
                     wel.</p>
                 <p>Breng direct je zwemkleding maar mee. Meld je om iets voor zeven uur aan de balie in de hal van
-                    zwembad 'de Vliegende Vaart' in Terneuzen. De mevrouw die daar zit zorgt er voor dat je dezelfde
+                    zwembad 'de Vliegende Vaart' in Terneuzen. Deze persoon van de reddingsbrigade zal er voor zorgen dat je nog dezelfde
                     avond al mee kunt zwemmen.</p>
                 <p>Je kunt er dan later beter over beslissen of je dit wel of niet wilt.</p>
+                <p>De voorwaarde om lid te worden van de vereniging is wel dat je in het bezig moet zijn van de
+                    zwemvaardigheid in de vorm van zwemdiploma A (NPZ/NRZ).</p>
                 <p>Voor nog meer inlichtingen kun je iedere maandagavond tot half negen in het zwembad terecht of
-                    even bellen.</p>
+                    kun je een berichtje sturen via e-mail of Facebook Messenger, voor deze informatie kunt u naar de <a href="/contact" style="text-decoration-line: underline;">contactpagina</a>.</p>
             </div>
         </div>
         <div class="m-row-striped text-left">

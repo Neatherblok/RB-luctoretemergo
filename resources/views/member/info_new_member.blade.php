@@ -27,8 +27,8 @@
                             gemeenschappelijke pas waarmee wij de leden toegang verlenen tot het bad.</p>
                         <p>In principe worden de leden op de zwemavond voorbereid op het behalen van een diploma met
                             daarbij ruimte voor ontspanning en recreatie. In het voor- en najaar worden er examens
-                            afgenomen onder toezicht van een door de bond toegewezen examencommissie. Hierbij kunnen de
-                            volgende diploma’s behaald worden:</p>
+                            afgenomen onder toezicht van een door de bond toegewezen examencommissie. Hierbij kunnen bij
+                             onze brigade de volgende diploma’s behaald worden:</p>
                         <ul>
                             <li>Junior Redder 1 t/m 4 (+/- 6 – 10 jaar)</li>
                             <li>Zwemmend Redder 1 t/m 4 (+/- 10 – 14 jaar)</li>
