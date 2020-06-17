@@ -14,7 +14,7 @@
             <div class="row justify-content-center">
                 <a href="#zwemmend-redden" class="m-3 btn register-btn linkUnderlineless">Zwemmend redden</a>
                 <a href="#theorie" class="m-3 btn register-btn linkUnderlineless">Theorie</a>
-                <a href="#EHBO" class="m-3 btn register-btn linkUnderlineless">EHBO</a>
+                <a href="#EHBO" class="m-3 btn register-btn linkUnderlineless">E.H.B.O.</a>
             </div>
             <div id="zwemmend-redden">
                 <img src="{{ asset('assets/img/rescue_tube.png')}}" class="w-25 m-auto">
@@ -62,7 +62,7 @@
             </div>
             <div id="EHBO">
                 <img src="{{ asset('assets/img/EHBO_koffer.png')}}" class="w-25 m-auto">
-                <h2 align="center">EHBO</h2>
+                <h2 align="center">E.H.B.O.</h2>
                 <p>Naast de theorie over het Reddend Zwemmen zijn er ook lessen in E.H.B.O voor Life Saver 2 en 3. In
                     deze lessen krijg je zowel praktijk als theorie les. Tijdens de praktijk leer je bijvoorbeeld een
                     verband aan te leggen, de stabiele zijligging en reanimeren. Tijdens de theorie krijg je uitleg over

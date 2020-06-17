@@ -9,8 +9,9 @@
 
                 <div class="card">
                     <div class="card-body">
-                        <p><strong>Onze instructeurs stellen zich even voor. Elke docent heeft voor u een paar leuke
-                                vraagjes over zichzelf beantwoord.</strong></p>
+                        <p><strong>Dit zijn onze docenten bij de brigade. We hebben elke docent zelfs zover gekregen
+                                om een paar vragen speciaal voor jou te beantwoorden, lees deze vooral even
+                                door!</strong></p>
                         <h2>Opgeleide instructeurs</h2>
                         <ul class="list-unstyled">
                             <li><h4>Annemee van den Branden</h4></li>
