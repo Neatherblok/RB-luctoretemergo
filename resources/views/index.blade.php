@@ -42,7 +42,7 @@
                     diploma's. Vanaf dit punt zijn er ook theorie lessen.
                 </p>
             </div>
-            <div id="theorie" class="card text-white" style="background-color: rgba(255,88,0,0.9); margin-left: -7rem; margin-right: -7rem; padding-left: 6.5rem; padding-right: 6.5rem">
+            <div id="theorie" class="card text-white" style="background-color: rgba(255,88,0,0.9); padding-left: 2rem; padding-right: 2rem;">
                 <img src="{{ asset('assets/img/theorieboek.png')}}" class="w-25 h-25 m-auto">
                 <h2 align="center">Theorie</h2>
                 <p>In de theorie lessen worden alle technieken nogmaals behandeld maar wordt er dieper op de stof
