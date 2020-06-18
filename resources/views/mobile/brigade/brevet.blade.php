@@ -6,7 +6,7 @@
     <div class="m-agendaContent">
         <p class="text-center agenda-description mt-3">Wij houden binnen onze brigade de brevetten aan die binnen
             Reddingsbrigade Nederland worden gehanteerd.</p>
-        <p class="text-center agenda-description">Voor extra informatie kunt u op desbetreffende brevet klikken.</p>
+        <p class="text-center agenda-description">Voor extra informatie en de vereisten kan je het desbetreffende brevet aanklikken.</p>
 
 
         <a href="http://red-luctor-et-emergo.nl/images/info/er_juniorredder_1.pdf"

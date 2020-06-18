@@ -18,8 +18,7 @@
                     <h1 class="text-center display-4">Agenda</h1>
                 </div>
                 <div class="card-body">
-                    <p class="text-center agenda-description mb-0">Op deze pagina treft u een overzicht met alle door ons geplaatste agendapunten.</p>
-                    <p class="text-center"><strong>Op maandagavonden staat er altijd iemand om 18:45 uur bij de balie.</strong></p>
+                    <p class="text-center agenda-description mb-0">Op deze pagina tref je een overzicht met alle aankomende en geplande activiteiten.</p>
                     <?php $i = 0 ?>
                     @foreach  ($activities as $activity)
                         <div class="row row-striped futureActivity">

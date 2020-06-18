@@ -46,9 +46,9 @@
                                 </li>
                                 <li>
                                     <u>Waar ben je het meest trots op, kan je hier iets over vertellen?</u><br>
-                                    <i>Op dit moment denk ik toch wel de website die u nu voor u ziet. Ik vind het
+                                    <i>Op dit moment denk ik toch wel de website die je nu voor jou ziet. Ik vind het
                                         fantastisch dat ik deze site voor de brigade waar ik bij zit heb mogen
-                                        maken en dat u nu overzichtelijk al uw informatie over ons kan opzoeken.</i>
+                                        maken en dat jij nu overzichtelijk al jouw informatie over ons kan opzoeken.</i>
                                 </li>
                             </ul>
                             <li><h4>Sander de Block</h4></li>

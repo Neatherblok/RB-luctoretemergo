@@ -4,7 +4,7 @@
 
 @section('content')
     <div class="m-agendaContent">
-        <p class="text-center agenda-description mt-3">Op deze pagina treft u een overzicht met alle aankomende
+        <p class="text-center agenda-description mt-3">Op deze pagina tref je een overzicht met alle aankomende en geplande
             activiteiten.</p>
         @php($i=1)
         @foreach  ($activities as $activity)

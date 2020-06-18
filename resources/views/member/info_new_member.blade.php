@@ -35,10 +35,10 @@
                             <li>Life Saver 1 t/m 3 (+/- 14 – 18 jaar)</li>
                         </ul>
                         <p>Tijdens het oefenen voor de diplomalijn Life Saver wordt er ingegaan op een stuk EHBO en
-                            theorie. Mocht uw kind een vorm van Dyslexie hebben dan verzoeken we dit graag aan ons door te geven zodat
+                            theorie. Mocht jouw kind een vorm van Dyslexie hebben dan verzoeken we dit graag aan ons door te geven zodat
                             wij hier rekening mee kunnen houden. Wil je meer informatie over de diploma’s? Spreek dan
                             iemand van de brigade aan. Wij helpen je graag verder.</p>
-                        <p>Wilt u zo vriendelijk zijn om bij de aanmeldingsformulier een pasfoto, met achterop
+                        <p>Wil je zo vriendelijk zijn om bij de aanmeldingsformulier een pasfoto, met achterop
                             vermelding van naam, en ook het inschrijfgeld à € 12,50 mee te nemen?</p>
                         <p>De contributie wordt jaarlijks tijdens de algemene ledenvergadering vastgesteld en kan ook
                             via automatische incasso worden afgeschreven. <a href="{{url("/contributie")}}">Klik hier voor de actuele contributie.</a></p>

@@ -4,15 +4,15 @@
 
 @section('content')
     <div class="m-agendaContent text-center pt-3">
-        <p class="mt-3">Uiteraard hebben wij als vereniging ook een gedrags reglement, huishoudelijke reglement en
-            statuten. Deze kunt u hieronder zien:</p>
+        <p class="mt-3">Uiteraard hebben wij als vereniging ook een gedragsreglement, huishoudelijke reglement en
+            statuten. Deze vind je hieronder:</p>
     </div>
 
     <div class="m-row-striped text-left">
         <a id="hide1" onclick="clickedActivity(this)" class="d-flex">
             <div class="col-10">
                 <h5>
-                    <strong>Gedrags Reglement</strong>
+                    <strong>Gedragsreglement</strong>
                 </h5>
             </div>
             <div class="col-2">

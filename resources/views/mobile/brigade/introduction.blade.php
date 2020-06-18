@@ -50,7 +50,7 @@
                     u denken aan het opduiken van ringen, een pop of groepsgenoot als drenkeling.</p>
 
                 <p>Met elk nieuw brevet zullen je vaardigheden uitgebreider worden en zul je meer vaardigheden krijgen
-                    die van een reddingbrigadier gevraagd worden.</p>
+                    die van een reddingsbrigadier gevraagd worden.</p>
 
                 <p>Voordat je een goed getrainde en geoefende redder bent heb je toch wel een paar jaar nodig. Wil je
                     daarna je nog verder dan zijn er met nog een EHBO diploma erbij volop kansen om aan de
@@ -74,17 +74,33 @@
                 <p>Bij ons op de brigade zijn bijna alle instructeurs ook leden geweest die opgeleid zijn tot
                     reddingsbrigadier. Zo ben je er zeker van dat wat je geleerd krijgt ook echt het juiste is, door de
                     jarenlange ervaring die de instructeurs al hebben.</p>
-                <p>Ook hebben de meeste van onze instructeurs aan het bad ook al een opleiding instructeur gevolgd,
+                <p>Ook heeft een groot aantal van onze instructeurs aan het bad ook al een opleiding instructeur gevolgd,
                     zodat ze ook officieel gecertificeerd les mogen geven.</p>
                 <p>Onze gecertificeerde instructeurs zijn:</p>
                 <ul>
-                    <li>Jan van Maren</li>
                     <li>Annemee van den Branden</li>
-                    <li>Christiaan van Sabben</li>
-                    <li>Vera de Bliek</li>
-                    <li>Jurjan Bruins Slot</li>
-                    <li>Corné Weststraete</li>
                     <li>Chantal Zahradnik</li>
+                    <li>Christiaan van Sabben</li>
+                    <li>Corné Weststrate</li>
+                    <li>Jan van Maren</li>
+                    <li>Jurjan Bruins Slot</li>
+                    <li>Vera de Bliek</li>
+                </ul>
+                <p>De overige docenten die aan het bad te vinden zijn zijn:</p>
+                <ul>
+                    <li>Joyce Veringmeier</li>
+                    <li>Judith van der Meer</li>
+                    <li>Karsten Stolk</li>
+                    <li>Mariska de Block</li>
+                    <li>Milan Zahradnik</li>
+                    <li>Noortje Stolk</li>
+                    <li>Ricardo de Deijn</li>
+                    <li>Sander de Block</li>
+                    <li>Selina de Deijn</li>
+                    <li>Simone Cijsouw</li>
+                    <li>Sjonnie den Hamer</li>
+                    <li>Sytze Hiemstra</li>
+                    <li>Thomas van Arenthals</li>
                 </ul>
             </div>
         </div>
@@ -225,8 +241,8 @@
                 <p>Je kunt er dan later beter over beslissen of je dit wel of niet wilt.</p>
                 <p>De voorwaarde om lid te worden van de vereniging is wel dat je in het bezig moet zijn van de
                     zwemvaardigheid in de vorm van zwemdiploma A (NPZ/NRZ).</p>
-                <p>Voor nog meer inlichtingen kun je iedere maandagavond tot half negen in het zwembad terecht of
-                    kun je een berichtje sturen via e-mail of Facebook Messenger, voor deze informatie kunt u naar de <a href="/contact" style="text-decoration-line: underline;">contactpagina</a>.</p>
+                <p>Voor nog meer inlichtingen kun je iedere maandagavond tot 21 uur in het zwembad terecht of
+                    kun je een berichtje sturen via e-mail of Facebook Messenger, deze kan je vinden op de <a href="/contact" style="text-decoration-line: underline;">contactpagina</a>.</p>
             </div>
         </div>
         <div class="m-row-striped text-left">
