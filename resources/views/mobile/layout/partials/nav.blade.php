@@ -1,8 +1,9 @@
 <!-- Top Navigation Menu -->
 <div class="m-topnav">
-    <a href="/" class="m-active m-navLogo"><img src="{{ asset('assets/img/logo_lee.png') }}" style="height:3.2rem;"></a>
+    <a href="/#" class="m-active m-navLogo"><img src="{{ asset('assets/img/logo_lee.png') }}" style="height:3.2rem;"></a>
     <!-- Navigation links (hidden by default) -->
     <div id="myLinks" class="m-navLinks">
+        <a href="/#">Home</a>
         <a href="/agenda">Agenda</a>
         <a href="/brigade">De Brigade</a>
         <a href="/diplomas">Diploma's</a>

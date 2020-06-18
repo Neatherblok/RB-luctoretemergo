@@ -16,7 +16,7 @@
                 <a href="#theorie" class="m-3 btn register-btn linkUnderlineless">Theorie</a>
                 <a href="#EHBO" class="m-3 btn register-btn linkUnderlineless">E.H.B.O.</a>
             </div>
-            <div id="zwemmend-redden">
+            <div id="zwemmend-redden" class="pb-4">
                 <img src="{{ asset('assets/img/rescue_tube.png')}}" class="w-25 m-auto">
                 <h2 align="center">Zwemmend redden</h2>
                 <p>In Terneuzen en omgeving is zo ontzettend veel water dat er makkelijk iemand in terecht kan
@@ -42,7 +42,8 @@
                     diploma's. Vanaf dit punt zijn er ook theorie lessen.
                 </p>
             </div>
-            <div id="theorie" class="card text-white" style="background-color: rgba(255,88,0,0.9); padding-left: 2rem; padding-right: 2rem;">
+            <p id="theorie"><br><br><br><br></p>
+            <div class="card text-white" style="background-color: rgba(255,88,0,0.9); padding-left: 2rem; padding-right: 2rem;">
                 <img src="{{ asset('assets/img/theorieboek.png')}}" class="w-25 h-25 m-auto">
                 <h2 align="center">Theorie</h2>
                 <p>In de theorie lessen worden alle technieken nogmaals behandeld maar wordt er dieper op de stof
@@ -60,7 +61,7 @@
                     in de situatie wordt vereist.
                 </p>
             </div>
-            <div id="EHBO">
+            <div id="EHBO" style="padding-top:6.5rem">
                 <img src="{{ asset('assets/img/EHBO_koffer.png')}}" class="w-25 m-auto">
                 <h2 align="center">E.H.B.O.</h2>
                 <p>Naast de theorie over het Reddend Zwemmen zijn er ook lessen in E.H.B.O voor Life Saver 2 en 3. In
