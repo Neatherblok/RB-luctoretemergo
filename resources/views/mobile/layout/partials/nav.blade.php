@@ -8,7 +8,6 @@
         <a href="/brigade">De Brigade</a>
         <a href="/diplomas">Diploma's</a>
         <a href="/gedragsregels">Regels</a>
-        <a href="/info-nieuwe-leden">Nieuwe Leden</a>
         <a href="/contact">Contact</a>
     </div>
     <!-- "Hamburger menu" / "Bar icon" to toggle the navigation links -->

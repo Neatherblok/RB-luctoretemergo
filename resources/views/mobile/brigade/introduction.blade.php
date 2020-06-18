@@ -49,12 +49,34 @@
                 <p>Vanaf het begin worden er ook verschillende onderdelen van het zwemmend redden geleerd. Hierbij moet
                     u denken aan het opduiken van ringen, een pop of groepsgenoot als drenkeling.</p>
 
+                <p>De vaste zwemavond is maandagavond. Het gehele jaar door, met uitzondering van de zomervakanties. In
+                    de andere vakanties hebben we een aangepaste programma's waarover we je inlichten via de nieuwsbrief
+                    of via Facebook. Een gewone zwemavond is in 2 groepen verdeeld als volgt:</p>
+
+                <p>– De lagere groepen zwemmen van 19.00 tot 20.00 uur<br>
+                    – De hogere groepen zwemmen van 20.00 tot 21.00 uur</p>
+
+                <p>Een individuele toegangspas voor het zwembad is niet nodig, de vereniging heeft een
+                    gemeenschappelijke pas waarmee wij de leden toegang verlenen tot het bad.</p>
+
+                <p>In principe worden de leden op de zwemavond voorbereid op het behalen van een diploma met
+                    daarbij ruimte voor ontspanning en recreatie. Eens in het jaar worden er examens
+                    afgenomen onder toezicht van een door de bond toegewezen examencommissie. Hierbij kunnen bij
+                    onze brigade de volgende diploma’s behaald worden:
+                </p>
+
+                <p>
+                    - Junior Redder 1 t/m 4 (+/- 6 tot 10 jaar)<br>
+                    - Zwemmend Redder 1 t/m 4 (+/- 10 tot 14 jaar)<br>
+                    - Life Saver 1 t/m 3 (+/- 14 to 18 jaar)
+                </p>
+
                 <p>Met elk nieuw brevet zullen je vaardigheden uitgebreider worden en zul je meer vaardigheden krijgen
                     die van een reddingsbrigadier gevraagd worden.</p>
 
                 <p>Voordat je een goed getrainde en geoefende redder bent heb je toch wel een paar jaar nodig. Wil je
-                    daarna je nog verder dan zijn er met nog een EHBO diploma erbij volop kansen om aan de
-                    kust als strandwacht of varend redder te werken.</p>
+                    daarna je nog verder dan zijn er met nog een EHBO diploma erbij volop kansen om aan de kust als
+                    strandwacht of varend redder te werken.</p>
             </div>
         </div>
         <div class="m-row-striped text-left">
@@ -74,8 +96,8 @@
                 <p>Bij ons op de brigade zijn bijna alle instructeurs ook leden geweest die opgeleid zijn tot
                     reddingsbrigadier. Zo ben je er zeker van dat wat je geleerd krijgt ook echt het juiste is, door de
                     jarenlange ervaring die de instructeurs al hebben.</p>
-                <p>Ook heeft een groot aantal van onze instructeurs aan het bad ook al een opleiding instructeur gevolgd,
-                    zodat ze ook officieel gecertificeerd les mogen geven.</p>
+                <p>Ook heeft een groot aantal van onze instructeurs aan het bad ook al een opleiding instructeur
+                    gevolgd, zodat ze ook officieel gecertificeerd les mogen geven.</p>
                 <p>Onze gecertificeerde instructeurs zijn:</p>
                 <ul>
                     <li>Annemee van den Branden</li>
@@ -233,16 +255,19 @@
             <div class="details" id="details7">
                 <p>Wil je eens komen kijken of dit zwemmend redden iets voor jou is? Dan mag je tot twee zwemavonden
                     mee zwemmen. Hoe snel of langzaam je zwemt is niet belangrijk dat verbetert met wat oefening
-                    vanzelf
-                    wel.</p>
+                    vanzelf wel.</p>
                 <p>Breng direct je zwemkleding maar mee. Meld je om iets voor zeven uur aan de balie in de hal van
-                    zwembad 'de Vliegende Vaart' in Terneuzen. Deze persoon van de reddingsbrigade zal er voor zorgen dat je nog dezelfde
-                    avond al mee kunt zwemmen.</p>
+                    zwembad 'de Vliegende Vaart' in Terneuzen. Deze persoon van de reddingsbrigade zal er voor zorgen
+                    dat je nog dezelfde avond al mee kunt zwemmen.</p>
                 <p>Je kunt er dan later beter over beslissen of je dit wel of niet wilt.</p>
                 <p>De voorwaarde om lid te worden van de vereniging is wel dat je in het bezig moet zijn van de
                     zwemvaardigheid in de vorm van zwemdiploma A (NPZ/NRZ).</p>
-                <p>Voor nog meer inlichtingen kun je iedere maandagavond tot 21 uur in het zwembad terecht of
-                    kun je een berichtje sturen via e-mail of Facebook Messenger, deze kan je vinden op de <a href="/contact" style="text-decoration-line: underline;">contactpagina</a>.</p>
+                <p>Na het besluit om lid te worden willen we je vriendelijk vragen om bij het aanmeldingsformulier een
+                    pasfoto, met achterop vermelding van naam, en ook het inschrijfgeld à € 12,50 mee te nemen naar de
+                    eerst volgende training. Dit zodat de inschrijving zo voorspoedig mogelijk kan verlopen.</p>
+                <p>Voor nog meer inlichtingen kun je iedere maandagavond tot 21 uur in de Vliegende Vaart Terneuzen
+                    terecht of kun je een berichtje sturen via e-mail of Facebook Messenger, deze kan je vinden op de
+                    <a href="/contact" style="text-decoration-line: underline;">contactpagina</a>.</p>
             </div>
         </div>
         <div class="m-row-striped text-left">
@@ -292,6 +317,9 @@
                         <td class="text-right">€ 48,- per kwartaal</td>
                     </tr>
                 </table>
+                <hr>
+                <p>De contributie wordt jaarlijks tijdens de algemene ledenvergadering vastgesteld en kan ook via
+                    automatische incasso worden afgeschreven.</p>
             </div>
         </div>
     </div>
