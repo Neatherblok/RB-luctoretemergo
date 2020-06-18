@@ -141,7 +141,7 @@
             </a>
             <div class="details" id="details4">
                 <p>Het huidige bestuur bestaat op dit moment uit:</p>
-                <table class="art-geentabrand" style="width: 99%;" border="0" cellspacing="2" cellpadding="0">
+                <table class="art-geentabrand" style="width: 99%;" cellspacing="2" cellpadding="0" border=1 frame=void rules=rows>
                     <tbody>
                     <tr>
                         <td width="50%"><strong>Voorzitter</strong></td>
@@ -161,7 +161,7 @@
                     </tr>
                     <tr>
                         <td><strong>Lid</strong></td>
-                        <td>Annemee van den Branden (Evenementen)</td>
+                        <td>Annemee van den Branden (Hoofd EC)</td>
                     </tr>
                     </tbody>
                 </table>
@@ -171,7 +171,7 @@
             <a id="hide5" onclick="clickedActivity(this)" class="d-flex">
                 <div class="col-10">
                     <h5>
-                        <strong>Technische Commissie</strong>
+                        <strong>Commissies</strong>
                     </h5>
                 </div>
                 <div class="col-2">
@@ -181,8 +181,9 @@
                 </div>
             </a>
             <div class="details" id="details5">
+                <h6>Technische Commissie</h6>
                 <p>Onze technische commissie, die over de organisatie aan het bad gaat, bestaat op dit moment uit:</p>
-                <table class="art-geentabrand" style="width: 99%;" border="0" cellspacing="2" cellpadding="0">
+                <table class="art-geentabrand" style="width: 99%;" cellspacing="2" cellpadding="0" border=1 frame=void rules=rows>
                     <tbody>
                     <tr>
                         <td width="50%"><strong>Hoofd</strong></td>
@@ -206,25 +207,10 @@
                     </tr>
                     </tbody>
                 </table>
-            </div>
-        </div>
-        <div class="m-row-striped text-left">
-            <a id="hide6" onclick="clickedActivity(this)" class="d-flex">
-                <div class="col-10">
-                    <h5>
-                        <strong>Evenementen Commissie</strong>
-                    </h5>
-                </div>
-                <div class="col-2">
-                    <div id="symbolActivity6">
-                        <i class="fas fa-plus"></i>
-                    </div>
-                </div>
-            </a>
-            <div class="details" id="details6">
-                <p>Onze evenementen commissie, die over de organisatie van activiteiten binnen de vereniging gaan,
+                <h6>Activiteiten Commissie</h6>
+                <p>Onze activiteiten commissie, die over de organisatie van activiteiten binnen de vereniging gaan,
                     bestaan op dit moment uit:</p>
-                <table class="art-geentabrand" style="width: 99%;" border="0" cellspacing="2" cellpadding="0">
+                <table class="art-geentabrand" style="width: 99%;" cellspacing="2" cellpadding="0" border=1 frame=void rules=rows>
                     <tbody>
                     <tr>
                         <td width="50%"><strong>Hoofd Evenementen</strong></td>
