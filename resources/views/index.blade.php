@@ -42,7 +42,7 @@
                     diploma's. Vanaf dit punt zijn er ook theorie lessen.
                 </p>
             </div>
-            <p id="theorie"><br><br><br><br></p>
+            <p id="theorie"><br><br><br></p>
             <div class="text-white theorie_card">
                 <img src="{{ asset('assets/img/theorieboek.png')}}" class="w-25 h-25 m-auto">
                 <h2 align="center">Theorie</h2>
