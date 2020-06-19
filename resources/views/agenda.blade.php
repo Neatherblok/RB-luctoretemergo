@@ -18,18 +18,18 @@
                     <h1 class="text-center display-4">Agenda</h1>
                 </div>
                 <div class="card-body">
-                    <p class="text-center agenda-description mb-0">Op deze pagina tref je een overzicht met alle aankomende en geplande activiteiten.</p>
+                    <p class="text-center agenda-description">Op deze pagina tref je een overzicht met alle aankomende en geplande activiteiten.</p>
                     <?php $i = 0 ?>
                     @foreach  ($activities as $activity)
                         <div class="row row-striped futureActivity">
                             @if($i < 1)
-                                <div class="col-2 text-right">
+                                <div class="col-4 text-right">
                                     <h1 class="display-4"><span
                                             class="badge agenda-badge">{{date('j', strtotime($activity->date))}}</span>
                                     </h1>
                                     <h4>{{__('agenda.months.' . date('F', strtotime($activity->date)))}} {{date('Y', strtotime($activity->date))}}</h4>
                                 </div>
-                                <div class="col-10">
+                                <div class="col-8">
                                     <h3 class="text-uppercase"><strong>{{$activity->title}}</strong></h3>
                                     <ul class="list-inline">
                                         <li class="list-inline-item"><i class="fa fa-calendar"
@@ -46,10 +46,10 @@
                                 </div>
                                 <?php $i++ ?>
                             @else
-                                <div class="col-2 text-right">
+                                <div class="col-4 text-right">
                                     <h6>{{__('agenda.days.' . date('l', strtotime($activity->date)))}} {{date('j', strtotime($activity->date))}} {{__('agenda.months.' . date('F', strtotime($activity->date)))}} {{date('Y', strtotime($activity->date))}}</h6>
                                 </div>
-                                <div class="col-10">
+                                <div class="col-8">
                                     <ul class="list-inline">
                                         <li class="list-inline-item"><strong> {{$activity->title}}</strong>
                                         </li>
