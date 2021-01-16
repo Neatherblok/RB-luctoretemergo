@@ -11,22 +11,22 @@
             <hr>
             <h4 class="font-weight-bold">E-mail</h4>
             <p>Stuur ons een e-mailbericht, dan proberen we zo snel mogelijk terug te reageren.</p>
-            <a href="mailto:info@red-luctor-et-emergo.nl" class="linkUnderlineless m-contactBlocks font-weight-bold">
+            <a href="mailto:luctoretemergoterneuzen@gmail.com (" class="linkUnderlineless m-contactBlocks font-weight-bold">
                 <img src="{{asset('assets/img/email_icon.png')}}" style="height:3.5vh;" class="mb-2">
-                <p class="text-uppercase m-0 d-inline">info@red-luctor-et-emergo.nl</p>
+                <p class="text-uppercase m-0 d-inline">luctoretemergoterneuzen@gmail.com (</p>
             </a>
             <hr>
             <h4 class="font-weight-bold">Facebook</h4>
             <p>Stuur ons een Facebookbericht, dan zullen we zo snel mogelijk proberen te reageren.</p>
             <a href="https://www.facebook.com/messages/t/100009455723964/"
-               class="linkUnderlineless m-contactBlocks font-weight-bold">
+               class="linkUnderlineless m-contactBlocks font-weight-bold" target="_blank">
                 <img src="{{asset('assets/img/messenger-icon.jpg')}}" style="height:3.5vh;" class="mb-2">
                 <p class="text-uppercase m-0 d-inline">Open messenger</p>
             </a>
             <p>Volg ook onze Facebookpagina voor extra informatie of om de laatste nieuwtjes met betrekking tot de
                 Reddingsbrigade te horen.</p>
             <a href="https://www.facebook.com/profile.php?id=100009455723964"
-               class="linkUnderlineless m-contactBlocks font-weight-bold">
+               class="linkUnderlineless m-contactBlocks font-weight-bold" target="_blank">
                 <img src="{{asset('assets/img/fb_logo.png')}}" style="height:3.5vh;" class="mb-2">
                 <p class="text-uppercase m-0 d-inline">Open Facebook</p>
             </a>
