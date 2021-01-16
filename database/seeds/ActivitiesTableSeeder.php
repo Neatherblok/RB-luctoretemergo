@@ -57,6 +57,13 @@ class ActivitiesTableSeeder extends Seeder
             [
                 'date' => "2020-11-27",
             ],
+            [
+                'date' => "2021-01-18",
+            ],
+            [
+                'date' => "2021-01-25",
+            ],
+
         ];
 
         foreach ($dates as $date_template) {
@@ -70,5 +77,4 @@ class ActivitiesTableSeeder extends Seeder
             $activity->save();
         }
     }
-
 }

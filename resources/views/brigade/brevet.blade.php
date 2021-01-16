@@ -119,6 +119,51 @@
                             </tr>
                             </tbody>
                         </table>
+
+                        <h4>
+                            <strong>Kledingeisen</strong>
+                        </h4>
+
+                        <h5>Kledingeisen Kleding eisen voor de recreatieve diploma lijn tot en met junior redder 4</h5>
+                        <p>
+                            Badkleding
+                            T-shirt, blouse of hemd met mouwen – Lange broek (lange broeken die naadloos aansluiten op
+                            de huid zijn niet toegestaan)
+                            Regen/windjack (bedoeld wordt een jack met lange mouwen, dat vaak is vervaardigd uit een
+                            soort nylon)
+                            Schoenen die het vrij buigen van de voet niet of minder goed mogelijk maken.
+                            Het is toegestaan dat kandidaten i.p.v. broek/blouse een jurk met mouwen of rok/blouse met
+                            mouwen dragen. De jurk/ rok moet tot over de knie reiken.
+                            De kledingstukken behoren zodanig bevestigd te zijn, dat deze tijdens het verblijf in het
+                            water niet verloren kunnen worden.
+                            De kleding dient schoon en in goede staat te zijn.
+                            Het gebruik van normale brillen plus of min dioptrie zijn toegestaan.
+                            Brillen om de ogen te beschermen tegen direct contact met het zwemwater, zoals duikbrillen
+                            zijn op geen enkel examenonderdeel toegestaan (met uitzondering van de onderdelen waar wordt
+                            gesproken over geblindeerde bril (tempered glass).
+                            Duikbrillen (tempered glass), waarbij klaren mogelijk is, zijn alleen toegestaan op basis
+                            van medische indicatie en een toegekend schriftelijk dispensatie (zie artikel 1.4) en zijn
+                            geheel voor eigen risico.
+                        </p>
+                        <h5>Kleding eisen voor de recreatieve diploma lijn zwemmend redder 1 tot en met Life Saver
+                            3</h5>
+                        <p>
+                            Badkleding
+                            T-shirt, blouse of hemd met mouwen – Lange broek (lange broeken die naadloos aansluiten op
+                            de huid zijn niet toegestaan)
+                            Het is toegestaan dat kandidaten i.p.v. broek/blouse een jurk met mouwen of rok/blouse met
+                            mouwen dragen. De jurk/ rok moet tot over de knie reiken.
+                            De kledingstukken behoren zodanig bevestigd te zijn, dat deze tijdens het verblijf in het
+                            water niet verloren kunnen worden.
+                            De kleding dient schoon en in goede staat te zijn.
+                            Het gebruik van normale brillen plus of min dioptrie zijn toegestaan.
+                            Brillen om de ogen te beschermen tegen direct contact met het zwemwater, zoals duikbrillen
+                            zijn op geen enkel examenonderdeel toegestaan (met uitzondering van de onderdelen waar wordt
+                            gesproken over geblindeerde bril (tempered glass).
+                            Duikbrillen (tempered glass), waarbij klaren mogelijk is, zijn alleen toegestaan op basis
+                            van medische indicatie en een toegekend schriftelijk dispensatie (zie artikel 1.4) en zijn
+                            geheel voor eigen risico.
+                        </p>
                     </div>
                 </div>
             </div>

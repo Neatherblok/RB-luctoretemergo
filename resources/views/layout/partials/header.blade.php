@@ -1,7 +1,9 @@
 <header class="masthead">
     <div class="container d-flex h-100 align-items-center">
-        <div class="mx-auto text-center p-3" style="background-color: rgba(255,88,0,0.7); border-radius:5px">
-            <h2 class="text-white mx-auto mt-2 mb-5">Ben jij die waterrat die niet genoeg van zwemmen krijgt?</h2>
+        <div class="mx-auto text-center p-3">
+            <h1 style="font-size: 2.31306rem;">Reddingsbrigade Luctor Et Emergo</h1>
+            <strong><p class="text-white mx-auto mt-2 mb-0">Ben jij een échte waterrat, die niet genoeg krijgt van zwemmen?</p>
+            <p class="text-white mx-auto mt-0 mb-5">Heb je daarnaast al een zwemdiploma en wil je levens redden met je hobby?</p></strong>
             <button type="button" href="/register" class="btn register-btn js-scroll-trigger" data-toggle="modal" data-target="#dangerModal">WORD DIRECT LID</button>
         </div>
 
