@@ -124,7 +124,7 @@
                             <strong>Kledingeisen</strong>
                         </h4>
 
-                        <h5>Kledingeisen Kleding eisen voor de recreatieve diploma lijn tot en met junior redder 4</h5>
+                        <h5>Kleding eisen voor de recreatieve diploma lijn tot en met junior redder 4</h5>
                         <p>
                             Badkleding
                             T-shirt, blouse of hemd met mouwen – Lange broek (lange broeken die naadloos aansluiten op
